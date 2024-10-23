@@ -1,0 +1,28 @@
+# Mac system files
+.DS_Store
+.DS_Store?
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code settings
+.vscode/
+
+# Sensitive data documents
+config.json
+log_utils.py
+
+# Raw data only
+data/raw/
+
+# Scraping outputs
+login_page_debug.html
+*.log
+*.pdf
