@@ -18,6 +18,7 @@ __pycache__/
 # Sensitive data documents
 config.json
 log_utils.py
+donor_ids.txt
 
 # Raw data only
 data/raw/
