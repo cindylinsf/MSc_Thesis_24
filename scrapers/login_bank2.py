@@ -1,3 +1,5 @@
+# file named changed from login.py to login_bank2.py for file organization
+
 from bs4 import BeautifulSoup
 import logging
 import random
@@ -35,7 +37,7 @@ def login(session, config, bank_id='bank2'):
     Args:
         session: requests.Session object
         config (dict): Configuration dictionary containing all settings
-        bank_id (str): ID of the bank to login to (default: 'bank2' for London Sperm Bank)
+        bank_id (str): ID of the bank to login to (bank1, bank2, etc.)
     
     Returns:
         bool: True if login successful, False otherwise

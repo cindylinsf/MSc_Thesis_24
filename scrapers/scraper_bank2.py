@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import csv
 from config import load_config
-from login import login
+from login_bank2 import login
 import os
 import time
 import random
