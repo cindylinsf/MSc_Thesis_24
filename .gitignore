@@ -52,3 +52,8 @@ donor_page_8.png
 donor_page_9.png
 scrapers/bank3_debug
 debug_page_source.html
+bank1_processed_data.csv
+bank2_processed_data.csv
+bank3_processed_data.csv
+bank4_processed_data.csv
+merged_donor_data_with_ids.csv
