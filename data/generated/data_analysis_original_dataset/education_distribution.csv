@@ -1,0 +1,382 @@
+education_level,Count,Percentage
+Bachelor,241,25.64
+Master,100,10.64
+Other,48,5.11
+Postgraduate,46,4.89
+High School Diploma,22,2.34
+GCSE's,15,1.6
+MBA,13,1.38
+BS/Kinesiology,4,0.43
+BS/Business Administration,4,0.43
+AA/Business,4,0.43
+MD,4,0.43
+BS/Marketing,4,0.43
+BS/Biology,4,0.43
+BBA,4,0.43
+Masters Degree,4,0.43
+BS/Mechanical Engineering,4,0.43
+BA/Political Science,3,0.32
+BA/Economics,3,0.32
+BS/Chemical Engineering,3,0.32
+BS/Computer Science,3,0.32
+BA/English,3,0.32
+BS/Computer Engineering,3,0.32
+MS/Mechanical Engineering,3,0.32
+JD/Law,3,0.32
+A Levels,3,0.32
+BA/Psychology,3,0.32
+BS/Civil Engineering,3,0.32
+MBA/Business Administration,3,0.32
+MD/Medicine,2,0.21
+MA/Philosophy,2,0.21
+MS/Computer Engineering,2,0.21
+MS/Computer Science,2,0.21
+MEng Control Engineering,2,0.21
+MS/Information Technology,2,0.21
+BA/Communications,2,0.21
+Pursuing BS/Civil Engineering,2,0.21
+BS/Electrical Engineering,2,0.21
+BA/Finance,2,0.21
+PhD/Physics,2,0.21
+MS/Biotechnology,2,0.21
+MS/Civil Engineering,2,0.21
+MBA/Finance,2,0.21
+MS/Organizational Leadership,2,0.21
+PhD/Chemical Engineering,2,0.21
+BS/Accounting,2,0.21
+MPH/Epidemiology,2,0.21
+BA/History,2,0.21
+BS/Information Systems,2,0.21
+BBA/Accounting,2,0.21
+BS/Physics,2,0.21
+Doctor of Physical Therapy,2,0.21
+BS/Economics,2,0.21
+BS/Chemistry,2,0.21
+Degree in Business Administration,2,0.21
+BS/Psychology,2,0.21
+Bachelors Degree,2,0.21
+A-Levels,2,0.21
+BS/Sport Management,2,0.21
+BA/Communication Studies,1,0.11
+AS/Criminal Justice,1,0.11
+MS/Aerospace Engineering,1,0.11
+Pursuing MA/Education,1,0.11
+BA/Telecommunication,1,0.11
+MS/Statistics,1,0.11
+BA/Criminal Justice,1,0.11
+Bachelor in Marketing,1,0.11
+MFA/Music Education,1,0.11
+AAS/Human Resources,1,0.11
+Pursuing ME/Engine Systems,1,0.11
+Pursuing AS/Public Health,1,0.11
+AAS/Air Conditioning,1,0.11
+BS/Applied Health Science,1,0.11
+MA/Lang. and Cult. of SE Asia,1,0.11
+MS/Management and Leadership,1,0.11
+BBA/Human Resource Management,1,0.11
+AA/Diesel Technology,1,0.11
+Electrician Apprenticeship,1,0.11
+BA/English and American Lit.,1,0.11
+MS/Econ. and Bus. Analytics,1,0.11
+BA/Economics and History,1,0.11
+ME/Space Systems Engineering,1,0.11
+BA/Musical Arts,1,0.11
+BA/Marketing,1,0.11
+Pursuing MS/Physics,1,0.11
+Pursuing BS/Business,1,0.11
+Pursuing BS/Business Admin.,1,0.11
+Pursuing Chiropractic Medicine,1,0.11
+BA/Visual Effects,1,0.11
+Pursuing PhD/Biochemistry,1,0.11
+MA/Accounting,1,0.11
+AA/General Studies,1,0.11
+PhD/Electrical Engineering,1,0.11
+BA/Media Arts and Animation,1,0.11
+MA/Forensic Psychology,1,0.11
+Pursuing BS/Mech. Engineering,1,0.11
+BBA/Mgmt. Information Systems,1,0.11
+Pursuing BS/Finance,1,0.11
+BBA/Marketing,1,0.11
+BS/Advertising,1,0.11
+Pursuing BS/Biological Science,1,0.11
+Pursuing AAS/Nursing,1,0.11
+PhD/Molecular Pathology,1,0.11
+MS/Engineering Management,1,0.11
+Pursuing PhD/Chemical Eng,1,0.11
+Doctorate of Audiology,1,0.11
+MFA/Acting,1,0.11
+Pharm.D/Pharmacy,1,0.11
+"AS/Accounting, Buisness",1,0.11
+BA/Travel and Tourism,1,0.11
+BA/Geography,1,0.11
+Pursuing BA/Business Admin,1,0.11
+Pursuing MBA,1,0.11
+Pursuing MD,1,0.11
+MBA/Accounting,1,0.11
+BS/Comp. Sci. and Engineering,1,0.11
+DO/Doctor of Osteopathic Med,1,0.11
+MS/Strategic Intelligence,1,0.11
+BA/East Asian Studies,1,0.11
+Pursuing BS/Physics,1,0.11
+BBA/Finance,1,0.11
+Pursuing BS/Mathematics,1,0.11
+BS/Exercise Science,1,0.11
+PhD/Analytical Chemistry,1,0.11
+Pursuing BS/Communication,1,0.11
+BA/Business,1,0.11
+Pursuing BA/Communication,1,0.11
+Pursuing BA/Business,1,0.11
+BS/Nursing,1,0.11
+Pursing BS/Biochemistry,1,0.11
+BS/Biomedical Engineering,1,0.11
+BA/Spanish,1,0.11
+BS/Criminal Justice,1,0.11
+Pursuing MS/Finance,1,0.11
+Pursuing AA/Industrial Maint.,1,0.11
+BS/Finance,1,0.11
+Massage Therapy Certification,1,0.11
+Pursuing BA/Mathematics,1,0.11
+Pursuing Doctor of Medicine,1,0.11
+"BS/Health, Human Performance",1,0.11
+BS/Veterinary Medicine,1,0.11
+BS/Management,1,0.11
+Pursuing PhD/Molecular Biology,1,0.11
+BA/Comm. Arts and Sciences,1,0.11
+Pursuing BS/Biochemistry,1,0.11
+BS/Biology: Biochemistry,1,0.11
+BS/Business,1,0.11
+BS/Software Tech. Engineering,1,0.11
+BA/Environmental Business,1,0.11
+Pursuing AS/SPsychology,1,0.11
+AA/Gen. Studies (Liberal Arts),1,0.11
+MS/Information Systems,1,0.11
+"BS/Geography, Urban Planning",1,0.11
+Pursuing BA/History,1,0.11
+Commercial Pilot Certification,1,0.11
+Pursuing AA/Tourism Management,1,0.11
+AS/Business,1,0.11
+MS/Statistics and Data Science,1,0.11
+BS/Molecular Genetic Tech.,1,0.11
+Pursuing AA/Business,1,0.11
+BA/Humanities,1,0.11
+BA/Mathematics,1,0.11
+Bicycle Fitting Certification,1,0.11
+BS/Environmental Biology,1,0.11
+BE/Electronics,1,0.11
+BFA/Acting,1,0.11
+Pursuing PhD/Chem. Engineering,1,0.11
+Juris Doctor,1,0.11
+Tow Operator Certification,1,0.11
+PhD/Political Philosophy,1,0.11
+BA/Mass Communication,1,0.11
+Pursuing BA/Philosophy,1,0.11
+MS/Sustainability Management,1,0.11
+"BA/Phil., Poli. Sci., Econ.",1,0.11
+AS/Communications,1,0.11
+BBA/International Business,1,0.11
+MS/Computer Info. Systems,1,0.11
+Pursuing MS/Bioengineering,1,0.11
+Pursuing BS/Psychology,1,0.11
+Pursuing AS/Computer Science,1,0.11
+High school diploma,1,0.11
+BA/Music Technology,1,0.11
+DDS,1,0.11
+BFA/Theatre,1,0.11
+MS/Electrical Engineering,1,0.11
+Pursuing AS/Criminal Justice,1,0.11
+AAS/Nursing,1,0.11
+BS/Horticulture,1,0.11
+Pursuing BS/Computer Science,1,0.11
+MS/Urban Planning,1,0.11
+MS/Health Science,1,0.11
+MS/Finance,1,0.11
+BS/Natural Resources Mgmt,1,0.11
+Pursuing AA/Engineering,1,0.11
+MS/Cybersecurity,1,0.11
+MBBS,1,0.11
+IT Support Certification,1,0.11
+BS/Computer Animation,1,0.11
+CCNA,1,0.11
+MPA,1,0.11
+Pursuing PhD/Mech. Engineering,1,0.11
+Pursuing BEd/Physics Education,1,0.11
+"Bachelor in Laws, LLB",1,0.11
+Bachelor of Law,1,0.11
+BS/Film and Digital Media,1,0.11
+BA/Music,1,0.11
+BA Political Science,1,0.11
+Pursuing EdD/Org. Leadership,1,0.11
+Bachelor of Finance and Credit,1,0.11
+Pursuing AA/Business Admin,1,0.11
+BS/IT Management,1,0.11
+BA/Archaeology,1,0.11
+BA/Philosophy,1,0.11
+Master of Laws (LLM); BA (Hons) in Classics,1,0.11
+BSc (Hons) Computing,1,0.11
+Diploma in Photography and Theatre,1,0.11
+PhD,1,0.11
+MSc in Computer Science & Business,1,0.11
+MEng (Masters in Engineering),1,0.11
+Masters in Ergonomics,1,0.11
+Master's Degree,1,0.11
+MA Economics & BA Economics and History,1,0.11
+MA in Political Science,1,0.11
+M.S. Accounting,1,0.11
+Masters in IT,1,0.11
+Degree in International Business,1,0.11
+BEng Electronics Engineering,1,0.11
+Diploma in Criminology and Sociology,1,0.11
+PhD in Drama & Theatre,1,0.11
+GNVQ (General National Vocational Qualification) - Catering,1,0.11
+Bachelor in Material Science and Engineering,1,0.11
+BSc Kinesiology,1,0.11
+Higher National Certificate (HNC) in Audiology,1,0.11
+IB Certificate in Higher Level Physics & Chemistry,1,0.11
+Undergraduate Degree in Business Management,1,0.11
+BSc in Engineering,1,0.11
+Bachelor of Arts,1,0.11
+Master's Degree in Neuroscience & Psychology,1,0.11
+Massage Therapist Qualification,1,0.11
+College Diploma,1,0.11
+NVQ Level 2 & 3 - Team Leading and Managing People,1,0.11
+BTEC Level 3 Diploma in Applied Science,1,0.11
+BA (Hons),1,0.11
+MSc Organic Chemistry,1,0.11
+MSc Mechanical Engineering; PgDip. Financial Risk Management,1,0.11
+Degree in Electronics,1,0.11
+Degree in Human Resources,1,0.11
+MSc Management and Coaching,1,0.11
+College Degree in Engineering,1,0.11
+Degree in Systems Administration,1,0.11
+MEng in Computing,1,0.11
+Bachelor of Commerce Internal Auditing & Tax,1,0.11
+Bachelor's Degree,1,0.11
+BA English; Shakespeare,1,0.11
+MSc in High Performance Computing,1,0.11
+BS/Coastal Systems Engineering,1,0.11
+BSc (Hons),1,0.11
+Diploma in Business Management,1,0.11
+Undergraduate Degree,1,0.11
+BSc in Civil Engineering,1,0.11
+PhD in Law,1,0.11
+BTEC Business Studies,1,0.11
+BCom,1,0.11
+BA Video and Film Production,1,0.11
+2 Bachelor Degrees; Economics and Political Science,1,0.11
+"MBA, Marketing of Information & Communication Technologies",1,0.11
+BA Fashion & Technology,1,0.11
+Master's Degree in Political Science,1,0.11
+Masters in Engineering,1,0.11
+BA in English Literature and Theatre,1,0.11
+MSc in Social & Public Communication & BSc in Economics,1,0.11
+BSc Sports Management,1,0.11
+PhD in Biophysics,1,0.11
+PhD in Cancer Immunotherapy,1,0.11
+Masters Degree in Finance & Bachelor of Science (BSc) in Computer Science,1,0.11
+PhD Chemical Engineering,1,0.11
+Master's in Political Science & Bachelor's in Communications,1,0.11
+Masters Degree and Bachelors Degree in History,1,0.11
+Political Science (Hons),1,0.11
+MA in Film Making,1,0.11
+"PGCE, LLM LAW",1,0.11
+Master's in Knowledge Management Engineering,1,0.11
+Bsc (Hons) Computing and Information Systems,1,0.11
+Doctorate,1,0.11
+"Degree in Law, Degree in Business Economics",1,0.11
+BEng Computer Systems Engineering,1,0.11
+BTEC Level 3 National Extended Diploma in Information Technology,1,0.11
+CII Insurance Diploma,1,0.11
+BSc Computer Science; Diploma in Information Technology,1,0.11
+GCSEs,1,0.11
+BSc in Biology,1,0.11
+Bachelors Degree in Music Technology,1,0.11
+Master Business Administration (MBA),1,0.11
+College level,1,0.11
+MBA in Digital Marketing,1,0.11
+Professional Certificate in Hospitality,1,0.11
+Masters Business Administration,1,0.11
+Bachelors in Commerce,1,0.11
+Pharm.D,1,0.11
+BS/Respiratory Therapy,1,0.11
+M.Ed./Organizational Devel.,1,0.11
+Post-baccalaureate,1,0.11
+BS/Biochemistry,1,0.11
+AA/Art History,1,0.11
+BFA/Sculpture,1,0.11
+BA (equiv.)/Journalism,1,0.11
+BS/Nutrition,1,0.11
+BS/Electronics Engineering,1,0.11
+BA/Business Finance,1,0.11
+MSc Human Rights,1,0.11
+AS/Science,1,0.11
+BM/Medicine & General Surgery,1,0.11
+Pharm.D./Pharmacy,1,0.11
+AFA/Theatre Performance,1,0.11
+BS/Journalism,1,0.11
+BS/Hotel & Restaurant Mgmt,1,0.11
+MA/Russian Legal Studies,1,0.11
+Master's in Cybersecurity,1,0.11
+BA/Biology,1,0.11
+International Business,1,0.11
+BA/Art History,1,0.11
+"BA/Political Sci., AA/Nursing",1,0.11
+BS/Zoo Science,1,0.11
+PhD/Material Sci & Engineering,1,0.11
+Pursuing PhD/Human Resources,1,0.11
+MS/Biological Sciences,1,0.11
+MS/Math and Computational Fin,1,0.11
+MS/Sport Management,1,0.11
+BS/Industrial Engineering,1,0.11
+BIT/Business Information Tech,1,0.11
+MS/Accounting,1,0.11
+AA/Psychology,1,0.11
+PhD/Kinesiology,1,0.11
+"BA/Social Studies, History",1,0.11
+Master of Public Affairs,1,0.11
+Pursuing PhD/Bioengineering,1,0.11
+MS/Nursing,1,0.11
+Pursing BA/Operations Mgt,1,0.11
+BS/Film and Media Studies,1,0.11
+MS/Geoinfmtcs & Geospatl Intel,1,0.11
+BS/Life Sciences,1,0.11
+Certificate/Linguistics,1,0.11
+BA/Management and Marketing,1,0.11
+BS/Media Production,1,0.11
+"BS/Kinesiology, Elect. Eng.",1,0.11
+PhD/Spanish Literature,1,0.11
+BA/International Rel.,1,0.11
+"PhD/Physics, Math",1,0.11
+MS/Journalism,1,0.11
+"BS/Accounting, IT",1,0.11
+BS/Finance; Minor: Psychology,1,0.11
+BA/Mgmt Info Syst,1,0.11
+MSc in Waste Management,1,0.11
+Bachelor Degree in Economics,1,0.11
+Degree in Computer Science,1,0.11
+Masters of Law,1,0.11
+Masters Degree in Renewable Energy,1,0.11
+MiM (Masters in Management),1,0.11
+BA Photography and Art History,1,0.11
+Business & Accounting Diploma,1,0.11
+BS/Mat. Sci. and Engineering,1,0.11
+BS/Kinesiological Science,1,0.11
+"BS/Psychology, BA/Biology",1,0.11
+BS/Biological Science,1,0.11
+BS/Music Industry,1,0.11
+BA/Intnl. Business and Culture,1,0.11
+DO/Osteopathic Medicine,1,0.11
+BS/Photography,1,0.11
+BA/Undeclared,1,0.11
+AAS/Business Administration,1,0.11
+PhD/Organic Chemistry,1,0.11
+BS/Microbiology,1,0.11
+Bachelor's/Sports Management,1,0.11
+AA/Theater,1,0.11
+Bach. of Design/Architecture,1,0.11
+Pharm. D. (equivalent),1,0.11
+"MD, MBA",1,0.11
+BS/Hospitality Management,1,0.11
+"BA/History, Economics",1,0.11
+MS/Software Engineering,1,0.11
+BBA/Economics,1,0.11
+BS/Cybersecurity,1,0.11

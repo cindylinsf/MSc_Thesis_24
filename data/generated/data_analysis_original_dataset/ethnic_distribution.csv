@@ -1,0 +1,77 @@
+ethnic_background,Count,Percentage
+Caucasian,297,29.46
+Asian,219,21.73
+"Mother: 0                           Indian
+1                        Bulgarian
+2                            Greek
+3      Ecuadorian, Native American
+4                            Cuban
+                  ...             
+121                        Chinese
+122                      Taiwanese
+123                         Indian
+124                        Chinese
+125                      Taiwanese
+Name: mother_ethnic_origin, Length: 126, dtype: object. Father: 0                   Indian
+1                Bulgarian
+2                    Greek
+3      Ecuadorian, Spanish
+4             Puerto Rican
+              ...         
+121                Chinese
+122       Chinese, English
+123                 Indian
+124                Chinese
+125       Chinese, English
+Name: father_ethnic_origin, Length: 126, dtype: object",126,12.5
+Multi,60,5.95
+Latino,45,4.46
+Hispanic or Latino,44,4.37
+Caucasian/White,33,3.27
+Black,27,2.68
+East Indian,24,2.38
+Black or African American,17,1.69
+"Caucasian, Asian",11,1.09
+Middle Eastern or Arabic,9,0.89
+"Caucasian, Hispanic or Latino",9,0.89
+Multi/Mixed,9,0.89
+"American Indian or Alaska Native, Caucasian",8,0.79
+"Asian, Caucasian",8,0.79
+"Caucasian, Middle Eastern or Arabic",6,0.6
+Latino/Hispanic,4,0.4
+"Black or African American, Caucasian",4,0.4
+"Hispanic or Latino, Caucasian",4,0.4
+African American/Black,4,0.4
+"Middle Eastern or Arabic, Caucasian",2,0.2
+"Caucasian/White, Latino/Hispanic, Multi/Mixed",2,0.2
+"Caucasian/White, Latino/Hispanic",2,0.2
+"Black or African American, American Indian or Alaska Native, Caucasian",2,0.2
+"Latino/Hispanic, Multi/Mixed",2,0.2
+Middle Eastern/African,2,0.2
+"American Indian or Alaska Native, Caucasian, Hispanic or Latino",2,0.2
+"American Indian, Caucasian/White",1,0.1
+"Caucasian/White, Pacific Islander",1,0.1
+"Pacific Islander, Multi/Mixed",1,0.1
+"Caucasian/White, Middle Eastern/African",1,0.1
+"African American/Black, Latino/Hispanic, Multi/Mixed",1,0.1
+"Caucasian, East Indian, Middle Eastern or Arabic",1,0.1
+"Caucasian/White, Middle Eastern/African, Multi/Mixed",1,0.1
+"Asian, Middle Eastern or Arabic",1,0.1
+"Hispanic or Latino, Caucasian, Black or African American",1,0.1
+"Mixed or Multi Ethnic, Black or African American",1,0.1
+"Black or African American, American Indian or Alaska Native, Mixed or Multi Ethnic",1,0.1
+Mixed or Multi Ethnic,1,0.1
+"Mixed or Multi Ethnic, Hispanic or Latino",1,0.1
+"Black or African American, Caucasian, Hispanic or Latino",1,0.1
+"Hispanic or Latino, Caucasian, Middle Eastern or Arabic",1,0.1
+"Black or African American, American Indian or Alaska Native, Hispanic or Latino, Caucasian",1,0.1
+"American Indian or Alaska Native, Asian, Caucasian, Hispanic or Latino",1,0.1
+"Caucasian, Black or African American",1,0.1
+"Black or African American, Asian",1,0.1
+"Asian, Native Hawaiian or Other Pacific Islander, Caucasian",1,0.1
+"Mixed or Multi Ethnic, Caucasian",1,0.1
+"American Indian or Alaska Native, Hispanic or Latino, Caucasian",1,0.1
+"Caucasian, Native Hawaiian or Other Pacific Islander",1,0.1
+"American Indian or Alaska Native, Hispanic or Latino",1,0.1
+"Caucasian, Asian, Hispanic or Latino",1,0.1
+"Asian, Hispanic or Latino",1,0.1

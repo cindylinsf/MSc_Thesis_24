@@ -1,0 +1,32 @@
+{
+    "total_profiles": 1019,
+    "ethnic_distribution": {
+        "Caucasian": 406,
+        "Asian": 222,
+        "East Indian": 150,
+        "Hispanic/Latino": 97,
+        "Mixed/Multi-Ethnic": 71,
+        "Black": 51,
+        "Middle Eastern/Arabic": 11,
+        "Unknown": 11
+    },
+    "education_distribution": {
+        "levels": {
+            "Bachelor": 489,
+            "Master": 204,
+            "Other": 169,
+            "Unknown": 79,
+            "High School": 42,
+            "Doctoral": 36
+        },
+        "fields": {
+            "Other": 679,
+            "STEM": 117,
+            "Business": 84,
+            "Unknown": 79,
+            "Healthcare": 27,
+            "Arts/Humanities": 22,
+            "Social Sciences": 11
+        }
+    }
+}
