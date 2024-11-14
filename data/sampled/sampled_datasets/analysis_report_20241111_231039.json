@@ -1,0 +1,110 @@
+{
+  "timestamp": "20241111_231039",
+  "sample_size": 250,
+  "original_sample": {
+    "ethnic_distribution": {
+      "East Indian": 0.02,
+      "Black or African American": 0.016,
+      "Asian": 0.24,
+      "Caucasian": 0.32,
+      "Hispanic or Latino": 0.044,
+      "Middle Eastern or Arabic": 0.008,
+      "Caucasian, Hispanic or Latino": 0.008,
+      "Asian, Caucasian": 0.004,
+      "American Indian or Alaska Native, Caucasian": 0.004,
+      "Caucasian, Asian": 0.008,
+      "Caucasian, Middle Eastern or Arabic": 0.004,
+      "Mother: 0                           Indian\n1                        Bulgarian\n2                            Greek\n3      Ecuadorian, Native American\n4                            Cuban\n                  ...             \n121                        Chinese\n122                      Taiwanese\n123                         Indian\n124                        Chinese\n125                      Taiwanese\nName: mother_ethnic_origin, Length: 126, dtype: object. Father: 0                   Indian\n1                Bulgarian\n2                    Greek\n3      Ecuadorian, Spanish\n4             Puerto Rican\n              ...         \n121                Chinese\n122       Chinese, English\n123                 Indian\n124                Chinese\n125       Chinese, English\nName: father_ethnic_origin, Length: 126, dtype: object": 0.136,
+      "Caucasian/White": 0.032,
+      "Multi/Mixed": 0.008,
+      "Latino": 0.048,
+      "Multi": 0.064,
+      "Black": 0.032,
+      "Caucasian/White, Pacific Islander": 0.004
+    },
+    "marketing_patterns": {
+      "pattern_distribution": {
+        "cultural_framing_language": 75,
+        "achievement_narratives_academic": 74,
+        "physical_description_facial_features": 205,
+        "personality_marketing_intelligence": 142,
+        "personality_marketing_altruism": 203,
+        "achievement_narratives_professional": 202,
+        "achievement_narratives_athletic": 83,
+        "personality_marketing_social": 118,
+        "physical_description_athletic_build": 179,
+        "cultural_framing_heritage": 44,
+        "cultural_framing_traditions": 40,
+        "physical_description_height_emphasis": 101
+      },
+      "ethnic_distribution": {
+        "East Indian": 5,
+        "Black or African American": 4,
+        "Asian": 60,
+        "Caucasian": 80,
+        "Hispanic or Latino": 11,
+        "Middle Eastern or Arabic": 2,
+        "Caucasian, Hispanic or Latino": 2,
+        "Asian, Caucasian": 1,
+        "American Indian or Alaska Native, Caucasian": 1,
+        "Caucasian, Asian": 2,
+        "Caucasian, Middle Eastern or Arabic": 1,
+        "Mother: 0                           Indian\n1                        Bulgarian\n2                            Greek\n3      Ecuadorian, Native American\n4                            Cuban\n                  ...             \n121                        Chinese\n122                      Taiwanese\n123                         Indian\n124                        Chinese\n125                      Taiwanese\nName: mother_ethnic_origin, Length: 126, dtype: object. Father: 0                   Indian\n1                Bulgarian\n2                    Greek\n3      Ecuadorian, Spanish\n4             Puerto Rican\n              ...         \n121                Chinese\n122       Chinese, English\n123                 Indian\n124                Chinese\n125       Chinese, English\nName: father_ethnic_origin, Length: 126, dtype: object": 34,
+        "Caucasian/White": 8,
+        "Multi/Mixed": 2,
+        "Latino": 12,
+        "Multi": 16,
+        "Black": 8,
+        "Caucasian/White, Pacific Islander": 1
+      }
+    }
+  },
+  "augmented_sample": {
+    "ethnic_distribution": {
+      "American Indian or Alaska Native, Caucasian": 0.076,
+      "Asian": 0.076,
+      "Asian, Caucasian": 0.076,
+      "Black or African American": 0.088,
+      "Black or African American, Caucasian": 0.076,
+      "Caucasian": 0.076,
+      "Caucasian, Hispanic or Latino": 0.076,
+      "Caucasian, Middle Eastern or Arabic": 0.076,
+      "East Indian": 0.076,
+      "Hispanic or Latino": 0.076,
+      "Hispanic or Latino, Mixed or Multi Ethnic": 0.076,
+      "Middle Eastern or Arabic": 0.076,
+      "Mixed or Multi Ethnic": 0.076
+    },
+    "marketing_patterns": {
+      "pattern_distribution": {
+        "physical_description_athletic_build": 168,
+        "personality_marketing_altruism": 154,
+        "physical_description_height_emphasis": 101,
+        "cultural_framing_heritage": 56,
+        "personality_marketing_social": 88,
+        "cultural_framing_traditions": 38,
+        "physical_description_facial_features": 188,
+        "cultural_framing_language": 56,
+        "achievement_narratives_athletic": 115,
+        "personality_marketing_intelligence": 94,
+        "achievement_narratives_professional": 193,
+        "achievement_narratives_academic": 110
+      },
+      "ethnic_distribution": {
+        "American Indian or Alaska Native, Caucasian": 19,
+        "Asian": 19,
+        "Asian, Caucasian": 19,
+        "Black or African American": 22,
+        "Black or African American, Caucasian": 19,
+        "Caucasian": 19,
+        "Caucasian, Hispanic or Latino": 19,
+        "Caucasian, Middle Eastern or Arabic": 19,
+        "East Indian": 19,
+        "Hispanic or Latino": 19,
+        "Hispanic or Latino, Mixed or Multi Ethnic": 19,
+        "Middle Eastern or Arabic": 19,
+        "Mixed or Multi Ethnic": 19
+      }
+    }
+  }
+}
