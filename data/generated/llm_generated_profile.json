@@ -1,0 +1,1054 @@
+
+
+[
+    {
+        "profile_id": "org_cla_1",
+        "Height": "5'11\" (180 cm)",
+        "Weight": "165 lb (75 kg)",
+        "Eye_Color": "Hazel",
+        "Hair": "Dark brown/wavy",
+        "Skin_Tone": "Light",
+        "Education": "PhD in Neuroscience",
+        "Ethnic_Background": "Caucasian",
+        "Occupation": "Research Scientist",
+        "Interests_Hobbies": [
+            "Piano",
+            "rock climbing",
+            "photography",
+            "hiking"
+        ],
+        "Description": "A passionate researcher with an insatiable curiosity for understanding the human brain, this donor combines intellectual rigor with creative pursuits. His hazel eyes light up when discussing his latest research or sharing stories from his weekend climbing adventures. Standing at 5'11\" with an athletic build maintained through regular rock climbing and hiking, he carries himself with quiet confidence. His wavy dark brown hair and refined features give him a distinguished yet approachable appearance. Equally comfortable giving academic lectures or playing classical piano at local venues, he brings both analytical precision and artistic sensitivity to everything he does. His colleagues praise his collaborative nature and ability to explain complex concepts with clarity and patience. In his free time, he captures stunning landscape photographs during his hiking expeditions and volunteers teaching science to underprivileged youth."
+    },
+    {
+        "profile_id": "org_cla_2",
+        "Height": "5'9\" (175 cm)",
+        "Weight": "155 lb (70 kg)",
+        "Eye_Color": "Brown",
+        "Hair": "Black/straight",
+        "Skin_Tone": "Medium",
+        "Education": "Master's in Computer Engineering",
+        "Ethnic_Background": "Asian",
+        "Occupation": "Software Architect",
+        "Interests_Hobbies": [
+            "Martial arts",
+            "violin",
+            "chess",
+            "cooking"
+        ],
+        "Description": "A brilliant technologist with a harmonious blend of logical thinking and creative expression, this donor exemplifies the modern Renaissance man. His warm brown eyes and gentle smile immediately put others at ease, while his sharp intellect and quick wit make him an engaging conversationalist. He maintains a lean, toned physique through dedicated martial arts practice, having earned black belts in both Taekwondo and Jiu-Jitsu. His straight black hair is typically styled in a contemporary professional cut that frames his face nicely. Beyond his successful career developing cutting-edge software solutions, he finds joy in playing violin with a local orchestra and exploring various world cuisines through his passion for cooking. Friends describe him as thoughtful, disciplined, and surprisingly funny, with an ability to bridge different cultures and perspectives."
+    },
+    {
+        "profile_id": "org_cla_3",
+        "Height": "6'2\" (188 cm)",
+        "Weight": "185 lb (84 kg)",
+        "Eye_Color": "Blue",
+        "Hair": "Blonde/straight",
+        "Skin_Tone": "Fair",
+        "Education": "MBA, Bachelor's in Environmental Science",
+        "Ethnic_Background": "Caucasian",
+        "Occupation": "Sustainability Consultant",
+        "Interests_Hobbies": [
+            "Surfing",
+            "guitar",
+            "sustainable farming",
+            "yoga"
+        ],
+        "Description": "This environmentally conscious entrepreneur combines business acumen with a deep commitment to planetary stewardship. His striking blue eyes and sun-kissed blonde hair reflect his love of outdoor activities, particularly surfing at dawn before heading to consultant meetings. Standing tall at 6'2\" with an athletic build, he maintains his fitness through a combination of yoga and active outdoor pursuits. His genuine smile and relaxed demeanor make him instantly approachable, while his sharp business sense and environmental expertise have made him a sought-after consultant for companies transitioning to sustainable practices. He spends weekends tending to his community garden plot and teaching others about sustainable living practices. Friends value his balanced perspective, combining pragmatic business solutions with idealistic environmental goals."
+    },
+    {
+        "profile_id": "org_cla_4",
+        "Height": "5'10\" (178 cm)",
+        "Weight": "170 lb (77 kg)",
+        "Eye_Color": "Brown",
+        "Hair": "Black/curly",
+        "Skin_Tone": "Medium brown",
+        "Education": "Doctor of Physical Therapy",
+        "Ethnic_Background": "Black",
+        "Occupation": "Physical Therapist",
+        "Interests_Hobbies": [
+            "Basketball",
+            "painting",
+            "jazz saxophone",
+            "meditation"
+        ],
+        "Description": "A healing artist who combines scientific knowledge with innate empathy, this donor brings warmth and expertise to both his professional practice and personal interactions. His expressive brown eyes and engaging smile immediately put patients at ease, while his athletic build reflects his commitment to physical wellness. His black curly hair is kept in a neat, professional style that complements his well-groomed appearance. Beyond his successful practice helping others recover and strengthen their bodies, he finds creative expression through jazz saxophone performance and abstract painting. His friends admire his ability to remain calm under pressure, attribute he credits to his daily meditation practice. Whether on the basketball court or in the clinic, he demonstrates grace, precision, and a genuine desire to help others achieve their full potential."
+    },
+    {
+        "profile_id": "org_cla_5",
+        "Height": "5'8\" (173 cm)",
+        "Weight": "145 lb (66 kg)",
+        "Eye_Color": "Dark brown",
+        "Hair": "Black/straight",
+        "Skin_Tone": "Light olive",
+        "Education": "Master's in Data Science",
+        "Ethnic_Background": "East Asian/Caucasian mixed",
+        "Occupation": "AI Research Engineer",
+        "Interests_Hobbies": [
+            "Dance",
+            "electronic music production",
+            "swimming",
+            "robotics"
+        ],
+        "Description": "This innovative technologist bridges the worlds of artificial intelligence and artistic expression with remarkable creativity. His mixed heritage gives him striking features, with expressive dark brown eyes and sleek black hair that complement his light olive complexion. Though not tall, his lean swimmer's build and excellent posture give him a commanding presence. His passion for both technology and arts is evident in his work developing AI systems for music composition and his weekend performances as an electronic music producer. Friends value his ability to explain complex technical concepts through creative analogies, making him an excellent mentor to younger colleagues. His dedication to physical fitness through swimming balances his intensive mental work, while his interest in robotics keeps him at the cutting edge of technological innovation."
+    },
+    {
+        "profile_id": "org_cla_6",
+        "Height": "6'0\" (183 cm)",
+        "Weight": "175 lb (79 kg)",
+        "Eye_Color": "Green",
+        "Hair": "Auburn/wavy",
+        "Skin_Tone": "Fair",
+        "Education": "Veterinary Medicine Doctorate",
+        "Ethnic_Background": "Caucasian",
+        "Occupation": "Veterinary Surgeon",
+        "Interests_Hobbies": [
+            "Horse riding",
+            "wildlife photography",
+            "classical guitar",
+            "mountain biking"
+        ],
+        "Description": "This compassionate veterinary surgeon combines exceptional medical skills with a deep love for animals and nature. His striking green eyes and wavy auburn hair give him a distinctive appearance, while his tall, athletic build speaks to his active lifestyle. His genuine warmth and gentle hands make him especially gifted with anxious animals and their worried owners. When not performing surgery, he can be found photographing wildlife in remote locations or exploring mountain trails on his bike. His classical guitar playing provides a peaceful counterpoint to his sometimes intense medical work. Friends and colleagues appreciate his calm demeanor in crisis situations and his ability to find humor and joy in daily life. His dedication to animal welfare extends beyond his practice to volunteer work with wildlife rehabilitation centers."
+    },
+    {
+        "profile_id": "org_cla_7",
+        "Height": "5'10\" (178 cm)",
+        "Weight": "168 lb (76 kg)",
+        "Eye_Color": "Brown",
+        "Hair": "Dark brown/straight",
+        "Skin_Tone": "Medium tan",
+        "Education": "Master's in Architecture",
+        "Ethnic_Background": "Hispanic",
+        "Occupation": "Sustainable Architecture Designer",
+        "Interests_Hobbies": [
+            "Soccer", 
+            "salsa dancing", 
+            "urban sketching", 
+            "woodworking"
+        ],
+        "Description": "This visionary architect seamlessly blends sustainable design principles with cultural heritage in his innovative building concepts. His warm brown eyes and engaging smile reflect his passionate approach to both work and life. His athletic build is maintained through regular soccer matches and dance practice, giving him a natural grace in movement. His well-groomed dark brown hair and professional appearance speak to his attention to detail, while his sketchbook reveals his artistic soul. Beyond his architectural work, he finds joy in crafting custom furniture pieces and teaching salsa dancing at community centers. Friends value his ability to see beauty in everyday objects and his talent for bringing people together through shared creative experiences. His commitment to sustainable design extends to volunteer work helping develop affordable housing solutions."
+    },
+    {
+        "profile_id": "org_cla_8",
+        "Height": "6'1\" (185 cm)",
+        "Weight": "180 lb (82 kg)",
+        "Eye_Color": "Grey",
+        "Hair": "Light brown/straight",
+        "Skin_Tone": "Fair",
+        "Education": "PhD in Mechanical Engineering",
+        "Ethnic_Background": "Caucasian",
+        "Occupation": "Aerospace Engineer",
+        "Interests_Hobbies": [
+            "Astronomy",
+            "piano composition",
+            "volleyball",
+            "3D printing"
+        ],
+        "Description": "This innovative aerospace engineer combines technical brilliance with artistic sensitivity. His unusual grey eyes and well-structured features give him a distinguished appearance, while his tall, athletic build reflects his active lifestyle. His light brown hair is typically styled in a modern professional cut that suits his face shape perfectly. Beyond his work developing next-generation aircraft systems, he finds creative expression through composing piano pieces inspired by astronomical phenomena. His volleyball teammates praise his strategic thinking and team leadership, while his colleagues admire his ability to find elegant solutions to complex engineering challenges. His passion for space exploration extends to volunteer work introducing young students to astronomy and engineering principles through hands-on workshops with 3D-printed models."
+    },
+    {
+        "profile_id": "org_cla_9",
+        "Height": "5'7\" (170 cm)",
+        "Weight": "150 lb (68 kg)",
+        "Eye_Color": "Brown",
+        "Hair": "Black/straight",
+        "Skin_Tone": "Medium",
+        "Education": "Master's in Biochemistry",
+        "Ethnic_Background": "South Asian",
+        "Occupation": "Pharmaceutical Researcher",
+        "Interests_Hobbies": [
+            "Cricket",
+            "Indian classical music",
+            "gardening",
+            "poetry"
+        ],
+        "Description": "This dedicated scientist brings both analytical precision and artistic sensitivity to his work in drug development. His expressive brown eyes and warm smile create an immediate connection with others, while his compact, athletic build reflects his regular cricket practice. His neat black hair and professional appearance speak to his attention to detail, while his musical performances reveal his artistic soul. Beyond his groundbreaking research work, he finds peace in tending to his elaborate garden and composing poetry that bridges Eastern and Western traditions. Colleagues value his ability to explain complex scientific concepts through creative analogies, while friends appreciate his thoughtful nature and cultural insights. His commitment to improving human health extends to volunteer work in community health education."
+    },
+    {
+        "profile_id": "org_cla_10",
+        "Height": "6'3\" (191 cm)",
+        "Weight": "195 lb (88 kg)",
+        "Eye_Color": "Blue",
+        "Hair": "Dark blonde/wavy",
+        "Skin_Tone": "Light",
+        "Education": "Master's in Education, Bachelor's in Literature",
+        "Ethnic_Background": "Caucasian",
+        "Occupation": "High School English Teacher & Basketball Coach",
+        "Interests_Hobbies": [
+            "Basketball",
+            "creative writing",
+            "theater directing",
+            "hiking"
+        ],
+        "Description": "This inspiring educator brings passion and creativity to both classroom teaching and athletic coaching. His bright blue eyes and wavy dark blonde hair complement his tall, athletic build, making him a natural leader on the basketball court. His engaging teaching style combines classical literature analysis with contemporary cultural references, making complex texts accessible to all students. Beyond his formal teaching roles, he directs the school theater program and leads a creative writing club for aspiring young authors. His hiking adventures often inspire his own creative writing, which has been published in several literary journals. Colleagues admire his ability to connect with struggling students, while his players appreciate his emphasis on teamwork and character development over winning at all costs. His commitment to education extends to summer literacy programs for underserved communities."
+    },
+    {
+        "profile_id": "aug_cla_1",
+        "Height": "5'11\" (180cm)",
+        "Weight": "168 lb (76kg)",
+        "Eye_Color": "Hazel",
+        "Hair": "Dark brown/Wavy",
+        "Skin_Tone": "Medium Light",
+        "Education": "MS/Environmental Engineering",
+        "Ethnic_Background": "Mixed or Multi Ethnic",
+        "Occupation": "Sustainability Consultant",
+        "Interests_Hobbies": [
+            "Rock climbing",
+            "Photography",
+            "Classical guitar",
+            "Environmental advocacy"
+        ],
+        "Description": "is a passionate environmentalist whose infectious enthusiasm for sustainability touches everything he does. This thoughtful and driven professional combines his technical expertise with a creative spirit, developing innovative solutions for environmental challenges. His mixed heritage has given him a unique perspective on global issues, which he channels into both his career and volunteer work with local conservation groups. Standing at 5'11\" with an athletic build maintained through regular rock climbing, he carries himself with quiet confidence. His hazel eyes light up when discussing his latest photography projects or environmental initiatives. Friends describe him as deeply empathetic with a wry sense of humor. In his free time, he can be found either scaling rock faces, capturing nature through his camera lens, or performing classical guitar at local cafes. His commitment to making a positive impact on the world is evident in both his professional work and personal pursuits."
+    },
+    {
+        "profile_id": "aug_cla_2",
+        "Height": "6'2\" (188cm)",
+        "Weight": "195 lb (88kg)",
+        "Eye_Color": "Brown",
+        "Hair": "Black/Curly",
+        "Skin_Tone": "Medium Dark",
+        "Education": "MD/Pediatrics",
+        "Ethnic_Background": "Black or African American",
+        "Occupation": "Pediatrician",
+        "Interests_Hobbies": [
+            "Jazz piano",
+            "Basketball",
+            "Mentoring",
+            "Medical mission trips"
+        ],
+        "Description": "is a charismatic pediatrician whose genuine love for helping children shines through in everything he does. His commanding height of 6'2\" is offset by a gentle demeanor that immediately puts young patients at ease. His warm brown eyes and bright, engaging smile reflect his compassionate nature. A gifted musician, he often incorporates music therapy into his medical practice, believing in the healing power of arts. He maintains his athletic build through regular basketball games with a local youth league he helped establish. His passion for medicine has taken him on numerous medical mission trips across the globe, where his ability to connect with children transcends language barriers. In his local community, he runs a mentoring program for underprivileged youth interested in healthcare careers. His colleagues praise his innovative approach to pediatric care and his natural ability to bring joy to even the most challenging situations."
+    },
+    {
+        "profile_id": "aug_cla_3",
+        "Height": "5'10\" (178cm)",
+        "Weight": "155 lb (70kg)",
+        "Eye_Color": "Green",
+        "Hair": "Light brown/Straight",
+        "Skin_Tone": "Light",
+        "Education": "MFA/Film Production",
+        "Ethnic_Background": "Caucasian",
+        "Occupation": "Documentary Filmmaker",
+        "Interests_Hobbies": [
+            "Screenwriting",
+            "Mountain biking",
+            "Travel photography",
+            "Acoustic guitar"
+        ],
+        "Description": "is an award-winning documentary filmmaker who approaches life with the same curiosity and depth he brings to his creative work. His piercing green eyes and thoughtful expression hint at his observant nature and artistic sensibility. Lean and athletic from his outdoor pursuits, he maintains an active lifestyle that fuels both his physical well-being and creative energy. His work has taken him to remote corners of the world, where he specializes in telling stories of environmental conservation and cultural preservation. Despite his professional success, he remains remarkably humble and always makes time to mentor aspiring filmmakers. His gentle laugh and engaging storytelling ability make him a natural connector of people. When not behind the camera, he can be found exploring mountain trails on his bike or composing songs on his acoustic guitar, often inspired by his travels."
+    },
+    {
+        "profile_id": "aug_cla_4",
+        "Height": "6'0\" (183cm)",
+        "Weight": "185 lb (84kg)",
+        "Eye_Color": "Blue",
+        "Hair": "Dark blond/Wavy",
+        "Skin_Tone": "Medium Light",
+        "Education": "BS/Computer Science, MBA",
+        "Ethnic_Background": "Caucasian",
+        "Occupation": "Tech Startup Founder",
+        "Interests_Hobbies": [
+            "Sailing",
+            "Chess",
+            "Piano",
+            "Machine learning research"
+        ],
+        "Description": "is a visionary entrepreneur who combines technical expertise with business acumen. His striking blue eyes and warm smile convey both intelligence and approachability. At 6'0\" with an athletic build, he maintains an active lifestyle despite the demands of running a successful tech startup. His passion for innovation is matched by his love of classical music; he unwinds by playing piano pieces he learned during his childhood years of formal training. A strategic thinker, he's as comfortable coding complex algorithms as he is navigating a sailboat through challenging waters. His colleagues admire his ability to lead with empathy while driving technological advancement. His love for chess reflects his methodical approach to problem-solving, and he regularly mentors young entrepreneurs, believing in the importance of giving back to the startup community."
+    },
+    {
+        "profile_id": "aug_cla_5",
+        "Height": "5'8\" (173cm)",
+        "Weight": "150 lb (68kg)",
+        "Eye_Color": "Brown",
+        "Hair": "Black/Straight",
+        "Skin_Tone": "Light",
+        "Education": "PhD/Neuroscience",
+        "Ethnic_Background": "East Asian",
+        "Occupation": "Research Scientist",
+        "Interests_Hobbies": [
+            "Violin",
+            "Tennis",
+            "Scientific illustration",
+            "Mindfulness meditation"
+        ],
+        "Description": "is a brilliant neuroscientist whose gentle demeanor masks a fierce intellectual curiosity. His compact, athletic frame reflects his disciplined approach to both physical and mental wellness. With expressive brown eyes and an infectious smile, he has a natural ability to make complex scientific concepts accessible to others. His passion for understanding the human brain is matched by his artistic talent; he creates beautiful scientific illustrations that bridge the gap between science and art. A classically trained violinist, he believes in the powerful connection between music and neurological development. His colleagues praise his innovative research methods and his ability to foster collaboration across disciplines. In his free time, he finds balance through competitive tennis and teaching mindfulness meditation at a local community center."
+    },
+    {
+        "profile_id": "aug_cla_6",
+        "Height": "6'3\" (190cm)",
+        "Weight": 210,
+        "Eye_Color": "Brown",
+        "Hair": "Brown/Wavy",
+        "Skin_Tone": "Medium",
+        "Education": "DPT/Physical Therapy",
+        "Ethnic_Background": "Hispanic or Latino",
+        "Occupation": "Sports Physical Therapist",
+        "Interests_Hobbies": [
+            "Soccer coaching", 
+            "Salsa dancing", 
+            "Cooking", 
+            "Volunteer firefighting"
+        ],
+        "Description": "is an energetic and compassionate physical therapist who brings healing through movement. His impressive 6'3\" frame and athletic build reflect his lifelong dedication to sports and fitness. His warm brown eyes and engaging smile immediately put his patients at ease. As a former collegiate soccer player, he now coaches youth teams while maintaining a thriving practice working with professional athletes. His natural rhythm and grace extend beyond the clinic to the dance floor, where he's known for his skilled salsa dancing. A passionate cook who loves sharing his family's traditional recipes, he believes in the connection between food, movement, and healing. His volunteer work as a firefighter demonstrates his commitment to community service and his courage in helping others. Colleagues admire his innovative rehabilitation techniques and his ability to motivate patients through their recovery journey."
+    },
+    {
+        "profile_id": "aug_cla_7",
+        "Height": "5'9\" (175cm)",
+        "Weight": "165 lb (75kg)",
+        "Eye_Color": "Brown",
+        "Hair": "Black/Curly",
+        "Skin_Tone": "Medium Dark",
+        "Education": "MS/Mechanical Engineering",
+        "Ethnic_Background": "Middle Eastern or Arabic",
+        "Occupation": "Robotics Engineer",
+        "Interests_Hobbies": [
+            "Oud playing",
+            "Poetry writing",
+            "Rock climbing",
+            "Volunteer teaching"
+        ],
+        "Description": "is a brilliant innovator who bridges the gap between art and technology. His expressive brown eyes and thoughtful demeanor reflect both his creative and analytical nature. With a fit, agile build from his dedication to rock climbing, he approaches both engineering challenges and artistic pursuits with equal passion. His talent for playing the oud, a traditional Middle Eastern instrument, showcases his dedication to preserving cultural heritage while pushing technological boundaries. He writes poetry in three languages, believing that engineering and artistic expression are different paths to the same goal of human connection. His work in robotics focuses on developing assistive technologies for individuals with disabilities. Students in his volunteer STEM program admire his ability to make complex concepts accessible and inspiring."
+    },
+    {
+        "profile_id": "aug_cla_8", 
+        "Height": "6'1\" (185cm)", 
+        "Weight": "180 lb (82kg)", 
+        "Eye_Color": "Amber", 
+        "Hair": "Brown/Straight", 
+        "Skin_Tone": "Medium Light", 
+        "Education": "BA/Education, MSW/Social Work", 
+        "Ethnic_Background": "Mixed or Multi Ethnic", 
+        "Occupation": "School Counselor", 
+        "Interests_Hobbies": [
+            "Basketball coaching",
+            "Digital art",
+            "Youth mentoring",
+            "Marathon running"
+        ], 
+        "Description": "is a dedicated educator whose impact extends far beyond the classroom. His unique amber eyes and warm smile immediately create a sense of trust and openness. At 6'1\" with an athletic build maintained through marathon training, he carries himself with a quiet confidence that inspires his students. His mixed heritage has given him a unique perspective on cultural integration, which he uses to help students navigate their own identity journeys. As a basketball coach and youth mentor, he believes in the power of sports to build character and community. His digital art hobby provides a creative outlet that he shares with students, encouraging them to express themselves through various mediums. Colleagues praise his innovative approach to counseling and his ability to connect with even the most challenging students."
+    },
+    {
+        "profile_id": "aug_cla_9", 
+        "Height": "5'10\" (178cm)", 
+        "Weight": "170 lb (77kg)", 
+        "Eye_Color": "Brown", 
+        "Hair": "Black/Wavy", 
+        "Skin_Tone": "Medium", 
+        "Education": "MD/PhD in Immunology", 
+        "Ethnic_Background": "South Asian", 
+        "Occupation": "Medical Researcher", 
+        "Interests_Hobbies": [
+                "Classical Indian flute",
+            "Yoga instruction",
+            "Scientific writing",
+            "Urban gardening"
+        ], 
+        "Description": "is a brilliant medical researcher whose work bridges traditional healing practices with modern medicine. His thoughtful brown eyes and serene demeanor reflect his balanced approach to science and wellness. With a strong, flexible build from years of yoga practice, he embodies the mind-body connection he studies. His talent for playing classical Indian flute provides both personal solace and a window into the therapeutic effects of music, which he incorporates into his research. As a certified yoga instructor, he teaches free classes for healthcare workers, believing in the importance of holistic wellness. His urban gardening initiative brings sustainable food practices to inner-city communities. Colleagues admire his innovative research approaches and his ability to maintain humanity in the world of high-level science."
+    },
+    {
+        "profile_id": "aug_cla_10", 
+        "Height": "6'0\" (183cm)", 
+        "Weight": "175 lb (79kg)", 
+        "Eye_Color": "Green", 
+        "Hair": "Dark brown/Curly", 
+        "Skin_Tone": "Medium", 
+        "Education": "Master/Architecture", 
+        "Ethnic_Background": "Mediterranean", 
+        "Occupation": "Sustainable Architect", 
+        "Interests_Hobbies": [
+                "Sculpting",
+            "Wilderness photography",
+            "Traditional woodworking",
+            "Mountain climbing"
+        ], 
+        "Description": "is a visionary architect whose designs seamlessly blend environmental sustainability with human-centered spaces. His striking green eyes and artistic sensibility are reflected in his innovative architectural solutions. His athletic frame, maintained through regular mountain climbing expeditions, mirrors his belief in the harmony between human structures and natural landscapes. As a sculptor and traditional woodworker, he brings an artisan's touch to his architectural projects, often incorporating handcrafted elements into his designs. His wilderness photography has been featured in environmental publications, showcasing his eye for natural beauty and commitment to conservation. Colleagues praise his ability to create spaces that not only meet practical needs but also inspire and elevate the human spirit. His pro-bono work designing sustainable housing for underserved communities demonstrates his commitment to social responsibility."
+    },
+    {
+        "profile_id": "org_gpt_1",
+        "height": "5'11\" (180 cm)",
+        "weight": "165 lbs (75 kg)",
+        "eye_color": "Hazel",
+        "hair": "Chestnut Brown / Wavy",
+        "skin_tone": "Fair",
+        "education": "Bachelor’s in Environmental Science",
+        "ethnic_background": "Italian American",
+        "occupation": "Conservationist",
+        "interests_hobbies": [
+            "Hiking",
+            "Gardening",
+            "Reading",
+            "Photography"
+        ],
+        "description": "A lover of nature and dedicated conservationist, he spends his days working to protect natural habitats. His vibrant hazel eyes sparkle with enthusiasm when talking about his work or his next hiking adventure. Family-oriented and compassionate, he has a deep sense of empathy, evident in his volunteer efforts at local animal shelters. His easy-going personality and warm smile make him a joy to be around, while his passion for sustainability drives him to make a lasting impact on the environment."
+    },
+    {
+        "profile_id": "org_gpt_2",
+        "height": "5'8\" (173 cm)",
+        "weight": "148 lbs (67 kg)",
+        "eye_color": "Dark Brown",
+        "hair": "Black / Curly",
+        "skin_tone": "Olive",
+        "education": "Master’s in Public Health",
+        "ethnic_background": "African American",
+        "occupation": "Epidemiologist",
+        "interests_hobbies": [
+            "Cooking",
+            "Painting",
+            "Running",
+            "Volunteering"
+        ],
+        "description": "His vibrant personality and commitment to helping others shine in his role as an epidemiologist. Outside of work, he loves experimenting in the kitchen and enjoys painting landscapes. Known for his calm and thoughtful demeanor, he is a natural listener who values empathy and resilience. His friends describe him as gentle-hearted and driven, with an infectious laugh and a genuine smile that brightens any room."
+    },
+    {
+        "profile_id": "org_gpt_3",
+        "height": "6'2\" (188 cm)",
+        "weight": "190 lbs (86 kg)",
+        "eye_color": "Blue",
+        "hair": "Blonde / Straight",
+        "skin_tone": "Fair",
+        "education": "PhD in Astrophysics",
+        "ethnic_background": "Scandinavian",
+        "occupation": "Research Scientist",
+        "interests_hobbies": [
+            "Astronomy",
+            "Surfing",
+            "Poetry",
+            "Rock Climbing"
+        ],
+        "description": "This astrophysicist is as brilliant as he is adventurous, blending his academic career with a love for the outdoors. Whether surfing or rock climbing, he thrives on new challenges. His striking blue eyes and kind smile reveal a calm confidence that draws people in. Highly intellectual yet down-to-earth, he’s an idealist who believes in using his skills to make a positive impact on the world."
+    },
+    {
+        "profile_id": "org_gpt_4",
+        "height": "5'7\" (170 cm)",
+        "weight": "155 lbs (70 kg)",
+        "eye_color": "Green",
+        "hair": "Dark Brown / Wavy",
+        "skin_tone": "Medium",
+        "education": "Bachelor’s in Graphic Design",
+        "ethnic_background": "Middle Eastern",
+        "occupation": "Freelance Designer",
+        "interests_hobbies": [
+            "Digital Art",
+            "Yoga",
+            "Traveling",
+            "Language Learning"
+        ],
+        "description": "A creative soul with a passion for culture, he is always finding ways to bring beauty into the world through his designs. His relaxed personality and deep green eyes make him easy to connect with. Driven by curiosity, he’s fluent in three languages and constantly seeks to explore new cultures. Known for his generosity and open-mindedness, he brings a calming presence to those around him."
+    },
+    {
+        "profile_id": "org_gpt_5",
+        "height": "5'9\" (175 cm)",
+        "weight": "160 lbs (73 kg)",
+        "eye_color": "Light Brown",
+        "hair": "Auburn / Curly",
+        "skin_tone": "Light Tan",
+        "education": "Bachelor’s in Mechanical Engineering",
+        "ethnic_background": "Hispanic",
+        "occupation": "Automotive Engineer",
+        "interests_hobbies": [
+            "Car Restoration",
+            "Soccer",
+            "Guitar",
+            "Hiking"
+        ],
+        "description": "A hands-on individual with a passion for mechanics, he’s happiest when working on cars or out in nature. His expressive light brown eyes reveal a gentle and patient nature, and his warm, welcoming smile speaks to his kind-hearted personality. He is deeply connected to his family and heritage, bringing a unique blend of passion and tradition into everything he does."
+    },
+    {
+        "profile_id": "org_gpt_6",
+        "height": "6'0\" (183 cm)",
+        "weight": "170 lbs (77 kg)",
+        "eye_color": "Gray",
+        "hair": "Black / Straight",
+        "skin_tone": "Olive",
+        "education": "MBA in Finance",
+        "ethnic_background": "South Asian",
+        "occupation": "Investment Analyst",
+        "interests_hobbies": [
+            "Chess",
+            "Swimming",
+            "Poetry",
+            "Meditation"
+        ],
+        "description": "With a mind for numbers and a heart for art, this finance professional brings depth to his analytical work. His calm, steady demeanor and love of meditation reveal his reflective nature, while his passion for poetry speaks to his creative side. Known for his kindness and intellect, he has a quiet charm that draws others in. His gray eyes and confident stride reflect both inner peace and ambition."
+    },
+    {
+        "profile_id": "org_gpt_7",
+        "height": "5'10\" (178 cm)",
+        "weight": "180 lbs (82 kg)",
+        "eye_color": "Amber",
+        "hair": "Dark Blonde / Wavy",
+        "skin_tone": "Fair",
+        "education": "Doctor of Veterinary Medicine",
+        "ethnic_background": "Australian",
+        "occupation": "Veterinarian",
+        "interests_hobbies": [
+            "Animal Rescue",
+            "Rugby",
+            "Baking",
+            "Gardening"
+        ],
+        "description": "A devoted veterinarian with a big heart, he has a special touch with animals. His amber eyes and radiant smile reflect a deep love for nature and all its creatures. Outside of work, he enjoys baking and gardening, finding peace in these simple activities. Known for his dedication and friendly demeanor, he’s always ready to lend a helping hand, whether to a friend or a furry companion."
+    },
+    {
+        "profile_id": "org_gpt_8",
+        "height": "5'6\" (168 cm)",
+        "weight": "140 lbs (64 kg)",
+        "eye_color": "Brown",
+        "hair": "Black / Straight",
+        "skin_tone": "Warm",
+        "education": "Bachelor’s in Culinary Arts",
+        "ethnic_background": "Filipino",
+        "occupation": "Chef",
+        "interests_hobbies": [
+            "Cooking",
+            "Reading",
+            "Martial Arts",
+            "Hiking"
+        ],
+        "description": "This culinary artist brings flavor and creativity to everything he does. Known for his inventive dishes and dedication to his craft, he takes pride in his cultural heritage and infuses it into his cooking. His friends appreciate his loyalty and zest for life, and his warm brown eyes convey his passion. Outside of the kitchen, he practices martial arts and enjoys hiking."
+    },
+    {
+        "profile_id": "org_gpt_9",
+        "height": "6'1\" (185 cm)",
+        "weight": "175 lbs (79 kg)",
+        "eye_color": "Green",
+        "hair": "Light Brown / Straight",
+        "skin_tone": "Light",
+        "education": "Master’s in Environmental Policy",
+        "ethnic_background": "Irish",
+        "occupation": "Environmental Policy Advisor",
+        "interests_hobbies": [
+            "Volunteering",
+            "Painting",
+            "Running",
+            "Cycling"
+        ],
+        "description": "Dedicated to making the world a better place, he brings his intellect and vision to environmental policy work. Known for his friendly and approachable personality, he enjoys spending his weekends volunteering and painting landscapes inspired by his travels. His friends describe him as thoughtful and considerate, with a positive outlook on life and a strong sense of purpose."
+    },
+    {
+        "profile_id": "org_gpt_10",
+        "height": "5'11\" (180 cm)",
+        "weight": "185 lbs (84 kg)",
+        "eye_color": "Brown",
+        "hair": "Black / Curly",
+        "skin_tone": "Dark",
+        "education": "Bachelor’s in Biomedical Science",
+        "ethnic_background": "Caribbean",
+        "occupation": "Biomedical Technician",
+        "interests_hobbies": [
+            "Soccer",
+            "Drumming",
+            "Cooking",
+            "Traveling"
+        ],
+        "description": "Energetic and driven, he combines his love for science with a passion for helping others. His athletic build and warm brown eyes convey his zest for life, and he’s always eager to take on new challenges. Known for his vibrant personality and big heart, he enjoys traveling, cooking, and staying connected to his Caribbean roots."
+    },
+    {
+        "profile_id": "aug_gpt_1",
+        "height": "5'11\" (180 cm)",
+        "weight": "175 lbs (79 kg)",
+        "eye_color": "Green",
+        "hair": "Dark Blond/Wavy",
+        "skin_tone": "Light",
+        "education": "BS in Environmental Science",
+        "ethnic_background": "European",
+        "occupation": "Park Ranger",
+        "interests_hobbies": [
+            "Hiking",
+            "Photography",
+            "Kayaking",
+            "Birdwatching"
+        ],
+        "description": "An outdoor enthusiast, this donor finds peace among nature's wonders. With a degree in Environmental Science, he's dedicated to preserving national parks and promoting conservation. His wavy blond hair and bright green eyes reflect his warm, approachable demeanor. Always eager for an adventure, he loves to photograph landscapes and share stories of his travels. He believes in living sustainably and hopes to inspire future generations to appreciate and protect the environment."
+    },
+    {
+        "profile_id": "aug_gpt_2",
+        "height": "6'2\" (188 cm)",
+        "weight": "200 lbs (91 kg)",
+        "eye_color": "Hazel",
+        "hair": "Black/Curly",
+        "skin_tone": "Olive",
+        "education": "Master’s in Public Health",
+        "ethnic_background": "Middle Eastern, Caucasian",
+        "occupation": "Epidemiologist",
+        "interests_hobbies": [
+            "Running",
+            "Playing Chess",
+            "Cooking",
+            "International Travel"
+        ],
+        "description": "Thoughtful and insightful, this donor's passion for public health stems from his desire to make a meaningful impact. With his hazel eyes and warm smile, he exudes empathy and intelligence. He enjoys a balanced lifestyle of fitness, gourmet cooking, and intellectual pursuits. An avid runner, he’s completed marathons across different countries, combining his love of travel with his dedication to wellness."
+    },
+    {
+        "profile_id": "aug_gpt_3",
+        "height": "5'9\" (175 cm)",
+        "weight": "160 lbs (73 kg)",
+        "eye_color": "Blue",
+        "hair": "Light Brown/Straight",
+        "skin_tone": "Fair",
+        "education": "BS in Software Engineering",
+        "ethnic_background": "Scandinavian",
+        "occupation": "Software Developer",
+        "interests_hobbies": [
+            "Coding",
+            "Mountain Biking",
+            "Playing Guitar",
+            "Reading Sci-Fi Novels"
+        ],
+        "description": "This tech-savvy donor is known for his analytical mind and creative spirit. A talented guitarist with a love for science fiction, he balances his professional life with outdoor activities like mountain biking. His friendly personality and bright blue eyes make him both approachable and intriguing. Driven by curiosity and a knack for problem-solving, he is always on the lookout for the next adventure, whether in code or on the trails."
+    },
+    {
+        "profile_id": "aug_gpt_4",
+        "height": "6'4\" (193 cm)",
+        "weight": "210 lbs (95 kg)",
+        "eye_color": "Brown",
+        "hair": "Black/Short",
+        "skin_tone": "Dark",
+        "education": "PhD in Psychology",
+        "ethnic_background": "African American",
+        "occupation": "Clinical Psychologist",
+        "interests_hobbies": [
+            "Writing",
+            "Mentoring Youth",
+            "Basketball",
+            "Traveling"
+        ],
+        "description": "Compassionate and articulate, this donor has dedicated his career to helping others navigate life’s challenges. With a calm demeanor and a reassuring presence, he’s a natural mentor who believes in the power of empathy. His tall, athletic frame and deep brown eyes convey strength and warmth. An avid writer, he’s working on a book to inspire young minds. He cherishes the chance to explore different cultures and hopes to make a lasting impact in the field of psychology."
+    },
+    {
+        "profile_id": "aug_gpt_5",
+        "height": "5'10\" (178 cm)",
+        "weight": "170 lbs (77 kg)",
+        "eye_color": "Grey",
+        "hair": "Dark Brown/Wavy",
+        "skin_tone": "Medium Light",
+        "education": "MBA in Finance",
+        "ethnic_background": "Indian",
+        "occupation": "Financial Analyst",
+        "interests_hobbies": [
+            "Yoga",
+            "Playing the Sitar",
+            "Volunteering",
+            "Traveling"
+        ],
+        "description": "With a calm presence and sharp intellect, this donor is a financial analyst with a passion for music and wellness. His expertise in finance is matched by his devotion to yoga and mindfulness. Known for his gentle spirit, he brings a soothing energy wherever he goes. His wavy dark hair and striking grey eyes are as memorable as his kindness and sense of humor. He believes in giving back and frequently volunteers, especially in education."
+    },
+    {
+        "profile_id": "aug_gpt_6",
+        "height": "6'1\" (185 cm)",
+        "weight": "185 lbs (84 kg)",
+        "eye_color": "Dark Brown",
+        "hair": "Black/Thick",
+        "skin_tone": "Medium",
+        "education": "BA in Art History",
+        "ethnic_background": "Hispanic",
+        "occupation": "Museum Curator",
+        "interests_hobbies": [
+            "Painting",
+            "Sculpting",
+            "Classical Music",
+            "Hiking"
+        ],
+        "description": "A creative soul with a love for history, this donor is deeply passionate about the arts. His work as a curator allows him to explore different cultures and share that knowledge with others. With an eye for beauty and detail, he brings a unique perspective to his work. He has a relaxed, approachable personality and often spends weekends hiking to find inspiration in nature. His love for classical music and art makes him an ideal storyteller with a vision for a brighter, more inclusive future."
+    },
+    {
+        "profile_id": "aug_gpt_7",
+        "height": "5'8\" (173 cm)",
+        "weight": "150 lbs (68 kg)",
+        "eye_color": "Amber",
+        "hair": "Red/Curly",
+        "skin_tone": "Fair with freckles",
+        "education": "BA in Environmental Studies",
+        "ethnic_background": "Irish, English",
+        "occupation": "Wildlife Conservationist",
+        "interests_hobbies": [
+            "Birdwatching",
+            "Gardening",
+            "Environmental Activism",
+            "Hiking"
+        ],
+        "description": "With a love for wildlife and a heart for conservation, this donor is committed to protecting natural habitats. His reddish curls and warm amber eyes add to his friendly and outgoing personality. A nature lover at heart, he spends much of his free time hiking and gardening, creating green spaces wherever he goes. He is passionate about environmental education, hoping to inspire others to care for the earth."
+    },
+    {
+        "profile_id": "aug_gpt_8",
+        "height": "5'7\" (170 cm)",
+        "weight": "140 lbs (64 kg)",
+        "eye_color": "Hazel",
+        "hair": "Brown/Straight",
+        "skin_tone": "Light Olive",
+        "education": "BA in Sociology",
+        "ethnic_background": "Mediterranean, Hispanic",
+        "occupation": "Social Worker",
+        "interests_hobbies": [
+            "Volunteering",
+            "Dancing",
+            "Cooking",
+            "Reading"
+        ],
+        "description": "This compassionate donor is a natural caregiver, dedicated to social work and helping communities. With hazel eyes and a warm smile, he is approachable and kind. His calm demeanor is balanced by a lively personality that shines through his love for dancing. Passionate about human rights, he spends his weekends volunteering. Cooking is a therapeutic hobby for him, allowing him to connect with family heritage and share love through food."
+    },
+    {
+        "profile_id": "aug_gpt_9",
+        "height": "6'0\" (183 cm)",
+        "weight": "190 lbs (86 kg)",
+        "eye_color": "Blue-Green",
+        "hair": "Blond/Curly",
+        "skin_tone": "Light",
+        "education": "BS in Mechanical Engineering",
+        "ethnic_background": "German, Swedish",
+        "occupation": "Mechanical Engineer",
+        "interests_hobbies": [
+            "Sailing",
+            "Rock Climbing",
+            "DIY Projects",
+            "Travel"
+        ],
+        "description": "A natural problem-solver, this donor is a skilled mechanical engineer with a knack for design. His curious mind and love for adventure have taken him around the world. With blue-green eyes and a friendly disposition, he easily makes friends wherever he goes. His weekends are often spent sailing or working on DIY projects. He hopes to inspire others to be innovative and environmentally conscious through his work."
+    },
+    {
+        "profile_id": "aug_gpt_10",
+        "height": "5'11\" (180 cm)",
+        "weight": "165 lbs (75 kg)",
+        "eye_color": "Dark Brown",
+        "hair": "Black/Straight",
+        "skin_tone": "Medium Dark",
+        "education": "Master’s in Political Science",
+        "ethnic_background": "African, Caribbean",
+        "occupation": "Diplomat",
+        "interests_hobbies": [
+            "Public Speaking",
+            "Reading Historical Fiction",
+            "Cooking",
+            "Soccer"
+        ],
+        "description": "Diplomatic and eloquent, this donor has a gift for communication and an unwavering dedication to social justice. His career in diplomacy reflects his commitment to fostering global understanding. Known for his warmth and intelligence, he has a passion for public speaking and is an avid reader. His love of history and interest in different cultures make him a captivating conversationalist, while his sense of humor makes him approachable and easy to be around."
+    },
+    {
+        "profile_id": "org_gem_1",
+        "Height": "5'11\" (180cm)",
+        "Weight": "175 lbs (79kg)",
+        "Eye_Color": "Brown",
+        "Hair": "Black/Straight",
+        "Skin_Tone": "Light",
+        "Education": "BS/Computer Science",
+        "Ethnic_Background": "Caucasian",
+        "Occupation": "Software Engineer",
+        "Interests_Hobbies": [
+            "Hiking",
+            "Photography",
+            "Traveling",
+            "Cooking"
+        ],
+        "Description": "With a love for both technology and the great outdoors, this donor is a thoughtful and adventurous spirit. His dedication and intelligence shine through in his successful career as a software engineer, while his passion for life is evident in his hobbies. Whether he's exploring a new hiking trail, capturing stunning landscapes through his camera lens, or experimenting with a new recipe in the kitchen, he approaches every endeavor with enthusiasm and a quiet determination. His brown eyes sparkle with curiosity and warmth, and his easygoing nature makes him a joy to be around."
+    },
+    {
+        "profile_id": "org_gem_2",
+        "Height": "6'1\" (185cm)",
+        "Weight": "185 lbs (84kg)",
+        "Eye_Color": "Blue",
+        "Hair": "Brown/Wavy",
+        "Skin_Tone": "Medium",
+        "Education": "MS/Environmental Science",
+        "Ethnic_Background": "Hispanic or Latino",
+        "Occupation": "Environmental Consultant",
+        "Interests_Hobbies": [
+            "Rock Climbing",
+            "Camping",
+            "Playing Guitar",
+            "Volunteering"
+        ],
+        "Description": "This compassionate and driven donor is making strides in his career as an environmental consultant, fueled by a deep desire to protect the planet. His adventurous spirit is evident in his love for rock climbing and exploring the wilderness, while his creative side finds expression through music. With his warm smile and friendly demeanor, he's always ready to lend a helping hand, whether it's volunteering in his community or offering support to a friend. His dedication to making a positive impact on the world is truly inspiring."
+    },
+    {
+        "profile_id": "org_gem_3",
+        "Height": "5'9\" (175cm)",
+        "Weight": "165 lbs (75kg)",
+        "Eye_Color": "Hazel",
+        "Hair": "Brown/Straight",
+        "Skin_Tone": "Light",
+        "Education": "PhD/Psychology",
+        "Ethnic_Background": "Asian",
+        "Occupation": "Therapist",
+        "Interests_Hobbies": [
+            "Reading",
+            "Writing",
+            "Traveling",
+            "Yoga"
+        ],
+        "Description": "With a genuine passion for helping others, this donor has dedicated his career to providing therapeutic support and guidance. His empathetic nature and insightful mind make him a natural listener, creating a safe space for those seeking understanding and healing. When he's not working, he enjoys exploring the world through travel, delving into thought-provoking books, and finding inner peace through yoga and meditation. His calm demeanor and gentle spirit make him a source of comfort and strength for those around him."
+    },
+    {
+        "profile_id": "org_gem_4",
+        "Height": "6'0\" (183cm)",
+        "Weight": "180 lbs (82kg)",
+        "Eye_Color": "Green",
+        "Hair": "Brown/Curly",
+        "Skin_Tone": "Medium",
+        "Education": "BS/Mechanical Engineering",
+        "Ethnic_Background": "Caucasian",
+        "Occupation": "Mechanical Engineer",
+        "Interests_Hobbies": [
+            "Skiing",
+            "Snowboarding",
+            "Hiking",
+            "Photography"
+        ],
+        "Description": "This adventurous and creative donor is a true outdoors enthusiast with a passion for capturing life's beauty through his camera lens. His engineering background speaks to his analytical mind and problem-solving skills, while his love for skiing, snowboarding, and hiking showcases his adventurous spirit. With his friendly smile and easygoing nature, he's always up for a challenge, whether it's tackling a new mountain peak or experimenting with a different photography technique. His zest for life is contagious, and his genuine kindness makes him a friend to all."
+    },
+    {
+        "profile_id": "org_gem_5",
+        "Height": "5'10\" (178cm)",
+        "Weight": "170 lbs (77kg)",
+        "Eye_Color": "Blue",
+        "Hair": "Brown/Straight",
+        "Skin_Tone": "Light",
+        "Education": "MS/Business Administration",
+        "Ethnic_Background": "Hispanic or Latino",
+        "Occupation": "Marketing Manager",
+        "Interests_Hobbies": [
+            "Playing Soccer",
+            "Traveling",
+            "Cooking",
+            "Playing Guitar"
+        ],
+        "Description": "With a passion for connecting with people and exploring new cultures, this donor is a natural communicator and a true citizen of the world. His business acumen and strategic thinking have led him to a successful career in marketing, while his love for soccer, travel, and music reflects his vibrant personality. Whether he's strategizing a new campaign, exploring a foreign city, or jamming with friends, he approaches every endeavor with enthusiasm and a contagious energy. His friendly smile and genuine interest in others make him a joy to be around."
+    },
+    {
+        "profile_id": "org_gem_6", 
+        "Height": "5'11\" (180cm)", 
+        "Weight": "180 lbs (82kg)", 
+        "Eye_Color": "Brown", 
+        "Hair": "Black/Wavy", 
+        "Skin_Tone": "Medium", 
+        "Education": "PhD/Chemistry", 
+        "Ethnic_Background": "Asian", 
+        "Occupation": "Research Scientist", 
+        "Interests_Hobbies": [
+            "Hiking",
+            "Camping",
+            "Reading",
+            "Playing Piano"
+        ], 
+        "Description": "This intelligent and dedicated donor is making significant contributions to the field of scientific research. His passion for discovery and problem-solving is evident in his pursuit of a PhD in chemistry, while his love for nature and the outdoors is reflected in his hobbies. Whether he's conducting experiments in the lab, exploring the wilderness on a camping trip, or expressing himself through music, he approaches every endeavor with a quiet intensity and a thoughtful mind. His calm demeanor and kind heart make him a source of support and inspiration for those around him."
+    },
+    {
+        "profile_id": "org_gem_7", 
+        "Height": "6'0\" (183cm)", 
+        "Weight": "175 lbs (79kg)", 
+        "Eye_Color": "Green", 
+        "Hair": "Brown/Straight", 
+        "Skin_Tone": "Light", 
+        "Education": "BS/Civil Engineering", 
+        "Ethnic_Background": "Caucasian", 
+        "Occupation": "Civil Engineer", 
+        "Interests_Hobbies": [
+            "Playing Basketball",
+            "Skiing",
+            "Traveling",
+            "Volunteering"
+        ], 
+        "Description": "With a passion for building a better future, this donor is a dedicated and compassionate individual. His civil engineering background speaks to his problem-solving skills and his desire to make a tangible impact on the world. Whether he's designing sustainable structures, hitting the slopes for a ski adventure, or volunteering his time to help those in need, he approaches every endeavor with a strong work ethic and a genuine desire to make a difference. His friendly smile and easygoing nature make him a friend to all."
+    },
+    {
+        "profile_id": "org_gem_8", 
+        "Height": "5'9\" (175cm)", 
+         "Weight": "160 lbs (73kg)", 
+         "Eye_Color": "Brown", 
+         "Hair": "Black/Straight", 
+         "Skin_Tone": "Light", 
+         "Education": "JD/Law", 
+        "Ethnic_Background": "Hispanic or Latino", 
+        "Occupation": "Attorney", 
+        "Interests_Hobbies": [
+            "Reading",
+            "Writing",
+            "Playing Chess",
+            "Traveling"
+        ], 
+        "Description": "With a sharp mind and a passion for justice, this donor is a driven and articulate attorney. His dedication to upholding the law and advocating for his clients is evident in his successful career, while his love for reading, writing, and chess reflects his intellectual curiosity. Whether he's crafting a legal argument, exploring a new destination, or strategizing his next move on the chessboard, he approaches every endeavor with a focused mind and a determined spirit. His thoughtful nature and genuine kindness make him a trusted advisor and a loyal friend."
+    },
+    {
+        "profile_id": "org_gem_9", 
+        "Height": "6'2\" (188cm)", 
+        "Weight": "190 lbs (86kg)", 
+        "Eye_Color": "Blue", 
+        "Hair": "Brown/Wavy", 
+        "Skin_Tone": "Medium", 
+        "Education": "BS/Biology", 
+        "Ethnic_Background": "Caucasian", 
+        "Occupation": "Medical Student", 
+        "Interests_Hobbies": [
+            "Playing Basketball",
+            "Hiking",
+            "Camping",
+            "Playing Guitar"
+        ], 
+        "Description": "With a passion for helping others and a deep appreciation for the natural world, this donor is a dedicated medical student with a bright future ahead. His love for science and his desire to make a positive impact on the lives of his patients are evident in his commitment to his studies. When he's not hitting the books, he enjoys exploring the great outdoors, whether it's playing basketball with friends, hiking through scenic trails, or simply relaxing around a campfire. His warm smile and easygoing nature make him a friend to all."
+    },
+    {
+        "profile_id": "org_gem_10", 
+        "Height": "5'10\" (178cm)", 
+        "Weight": "175 lbs (79kg)", 
+        "Eye_Color": "Hazel", 
+        "Hair": "Brown/Straight", 
+        "Skin_Tone": "Light", 
+        "Education": "MS/Engineering Management", 
+        "Ethnic_Background": "Asian", 
+        "Occupation": "Project Manager", 
+        "Interests_Hobbies": [
+            "Photography",
+            "Traveling",
+            "Cooking",
+            "Playing Video Games"
+        ], 
+        "Description": "With a passion for innovation and a talent for bringing people together, this donor is a driven project manager with a creative spirit. His engineering background speaks to his analytical mind and problem-solving skills, while his love for photography, travel, and cooking reflects his diverse interests. Whether he's leading a team to success, capturing stunning moments through his camera lens, or experimenting with new flavors in the kitchen, he approaches every endeavor with enthusiasm and a collaborative spirit. His hazel eyes shine with warmth and intelligence, and his calm demeanor makes him a natural leader. He's always eager to explore new possibilities, and his dedication to personal growth is truly inspiring."
+    },
+    {
+        "profile_id": "aug_gem_1",
+        "height": "5'10 (178cm)",
+        "weight": "170 lbs (77kg)",
+        "eye_color": "Brown",
+        "hair_color": "Black",
+        "hair_texture": "Straight",
+        "skin_tone": "Medium Light",
+        "education_level": "BS",
+        "education_field": "Computer Science",
+        "ethnic_background": "Caucasian",
+        "occupation": "Software Engineer",
+        "interests_hobbies": "Gaming, Hiking, Photography",
+        "donor_description": "This donor is a thoughtful and introspective individual with a passion for technology and the outdoors. They are currently working as a software engineer and enjoy spending their free time hiking, gaming, and taking photographs. They are also a talented musician and enjoy playing the guitar and singing. This donor is looking to help others and is excited about the possibility of helping someone grow their family."
+    },
+    {
+        "profile_id": "aug_gem_2",
+        "height": "6'0 (183cm)",
+        "weight": "180 lbs (82kg)",
+        "eye_color": "Blue",
+        "hair_color": "Brown",
+        "hair_texture": "Wavy",
+        "skin_tone": "Light",
+        "education_level": "BS",
+        "education_field": "Mechanical Engineering",
+        "ethnic_background": "Hispanic or Latino",
+        "occupation": "Mechanical Engineer",
+        "interests_hobbies": "Sports, Music, Travel",
+        "donor_description": "This donor is a charismatic and outgoing individual with a passion for engineering, sports, and music. They are currently working as a mechanical engineer and enjoy spending their free time playing sports, listening to music, and traveling. They are also a talented artist and enjoy painting and drawing. This donor is looking to help others and is excited about the possibility of helping someone grow their family."
+    },
+    {
+        "profile_id": "aug_gem_3",
+        "height": "5'11 (180cm)",
+        "weight": "190 lbs (86kg)",
+        "eye_color": "Brown",
+        "hair_color": "Black",
+        "hair_texture": "Curly",
+        "skin_tone": "Medium Dark",
+        "education_level": "BS",
+        "education_field": "Civil Engineering",
+        "ethnic_background": "Black or African American",
+        "occupation": "Civil Engineer",
+        "interests_hobbies": "Sports, Music, Community Service",
+        "donor_description": "This donor is a dedicated and compassionate individual with a passion for helping others. They are currently working as a civil engineer and enjoy using their skills to make a positive impact on their community. They are also a talented athlete and musician and enjoy playing sports, listening to music, and attending concerts. This donor is looking to help others and is excited about the possibility of helping someone grow their family."
+    },
+    {
+        "profile_id": "aug_gem_4",
+        "height": "6'1 (185cm)",
+        "weight": "190 lbs (86kg)",
+        "eye_color": "Green",
+        "hair_color": "Brown",
+        "hair_texture": "Straight",
+        "skin_tone": "Light",
+        "education_level": "BS",
+        "education_field": "Business Administration",
+        "ethnic_background": "Caucasian",
+        "occupation": "Business Analyst",
+        "interests_hobbies": "Sports, Travel, Cooking",
+        "donor_description": "This donor is a driven and ambitious individual with a passion for business, travel, and sports. They are currently working as a business analyst and enjoy using their skills to help businesses succeed. They are also a talented athlete and enjoy playing a variety of sports, including basketball, football, and soccer."
+    },
+    {
+        "profile_id": "aug_gem_5",
+        "height": "5'9 (175cm)",
+        "weight": "170 lbs (77kg)",
+        "eye_color": "Brown",
+        "hair_color": "Black",
+        "hair_texture": "Wavy",
+        "skin_tone": "Medium",
+        "education_level": "BS",
+        "education_field": "Psychology",
+        "ethnic_background": "Hispanic or Latino",
+        "occupation": "Therapist",
+        "interests_hobbies": "Music, Reading, Hiking",
+        "donor_description": "This donor is a compassionate and caring individual with a passion for helping others. They are currently working as a therapist and enjoy using their skills to help people overcome challenges and live fulfilling lives. They are also a talented musician and enjoy playing the guitar and singing."
+    },
+    {
+        "profile_id": "aug_gem_6",
+        "height": "6'2 (188cm)",
+        "weight": "190 lbs (86kg)",
+        "eye_color": "Hazel",
+        "hair_color": "Brown",
+        "hair_texture": "Straight",
+        "skin_tone": "Light",
+        "education_level": "BS",
+        "education_field": "Civil Engineering",
+        "ethnic_background": "Asian",
+        "occupation": "Civil Engineer",
+        "interests_hobbies": "Sports, Gaming, Travel",
+        "donor_description": "This donor is a dedicated and hardworking individual with a passion for engineering, sports, and gaming. They are currently working as a civil engineer and enjoy using their skills to design and build structures that improve people's lives. They are also a talented athlete and enjoy playing a variety of sports, including basketball, football, and soccer."
+    },
+    {
+        "profile_id": "aug_gem_7",
+        "height": "5'10 (178cm)",
+        "weight": "180 lbs (82kg)",
+        "eye_color": "Brown",
+        "hair_color": "Black",
+        "hair_texture": "Curly",
+        "skin_tone": "Medium Dark",
+        "education_level": "BS",
+        "education_field": "Computer Science",
+        "ethnic_background": "Black or African American",
+        "occupation": "Software Engineer",
+        "interests_hobbies": "Music, Reading, Community Service",
+        "donor_description": "This donor is a creative and intelligent individual with a passion for technology, music, and reading. They are currently working as a software engineer and enjoy using their skills to create innovative software applications. They are also a talented musician and enjoy playing the piano and singing."
+    },
+    {
+        "profile_id": "aug_gem_8",
+        "height": "6'0 (183cm)",
+        "weight": "190 lbs (86kg)",
+        "eye_color": "Blue",
+        "hair_color": "Brown",
+        "hair_texture": "Straight",
+        "skin_tone": "Light",
+        "education_level": "BS",
+        "education_field": "Mechanical Engineering",
+        "ethnic_background": "Caucasian",
+        "occupation": "Mechanical Engineer",
+        "interests_hobbies": "Sports, Travel, Photography",
+        "donor_description": "This donor is a driven and adventurous individual with a passion for engineering, travel, and sports. They are currently working as a mechanical engineer and enjoy using their skills to design and build machines that make a difference in the world. They are also a talented athlete and enjoy playing a variety of sports, including basketball, football, and soccer."
+    },
+    {
+        "profile_id": "aug_gem_9",
+        "height": "5'11 (180cm)",
+        "weight": "170 lbs (77kg)",
+        "eye_color": "Brown",
+        "hair_color": "Black",
+        "hair_texture": "Wavy",
+        "skin_tone": "Medium",
+        "education_level": "BS",
+        "education_field": "Psychology",
+        "ethnic_background": "Hispanic or Latino",
+        "occupation": "Therapist",
+        "interests_hobbies": "Music, Reading, Hiking",
+        "donor_description": "This donor is a compassionate and caring individual with a passion for helping others. They are currently working as a therapist and enjoy using their skills to help people overcome challenges and live fulfilling lives. They are also a talented musician and enjoy playing the guitar and singing."
+    },
+    {
+        "profile_id": "aug_gem_10",
+        "height": "6'2 (188cm)",
+        "weight": "190 lbs (86kg)",
+        "eye_color": "Hazel",
+        "hair_color": "Brown",
+        "hair_texture": "Straight",
+        "skin_tone": "Light",
+        "education_level": "BS",
+        "education_field": "Civil Engineering",
+        "ethnic_background": "Asian",
+        "occupation": "Civil Engineer",
+        "interests_hobbies": "Sports, Gaming, Travel",
+        "donor_description": "This donor is a dedicated and hardworking individual with a passion for engineering and a love for sports and gaming. He is currently working as a civil engineer and enjoys using his skills to design and build structures that improve people's lives. He is also a talented athlete and enjoys playing a variety of sports, including basketball, football, and soccer. In his free time, this donor enjoys playing video games and traveling the world. He is also a talented musician and enjoys playing the guitar and singing. This donor is looking to help others and is excited about the possibility of helping someone grow their family."
+    }
+]
