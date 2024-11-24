@@ -1,0 +1,19 @@
+{
+  "donor_image": "aug_gpt_4_gem_wo.jpeg",
+  "timestamp": "2024-11-21T21:40:58.849484",
+  "generation_params": {
+    "cfg": 7.0,
+    "steps": 25,
+    "sampler": "euler"
+  },
+  "seeds": [
+    1208802291,
+    1327753702,
+    1471155051
+  ],
+  "output_files": [
+    "aug_gpt_4_gem_wo_baby_1.png",
+    "aug_gpt_4_gem_wo_baby_2.png",
+    "aug_gpt_4_gem_wo_baby_3.png"
+  ]
+}

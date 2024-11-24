@@ -1,0 +1,67 @@
+{
+  "version": 1.0,
+  "state": {},
+  "nodes": [
+    {
+      "id": 1,
+      "type": "LoadImage",
+      "pos": [
+        150,
+        200
+      ],
+      "size": [
+        315,
+        98
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "widgets_values": [
+        "/Users/cindylinsf/Documents/CCI/THESIS/Msc_Thesis_Project_Files/data/input/cindy.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "LoadImage",
+      "pos": [
+        150,
+        400
+      ],
+      "size": [
+        315,
+        98
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "widgets_values": [
+        "/Users/cindylinsf/Documents/CCI/THESIS/Msc_Thesis_Project_Files/outputs/generated_donor_profile_images/comfyui_source_files/aug_gpt_4_gem_wo.jpeg"
+      ]
+    }
+  ],
+  "links": []
+}

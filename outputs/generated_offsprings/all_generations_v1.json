@@ -1,0 +1,306 @@
+[
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T15:24:53.329052",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      1000453084,
+      1268327300,
+      1346270991
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T15:27:20.852337",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      1593634143,
+      16072023,
+      762707054
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T15:28:52.706270",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      572399886,
+      2007121802,
+      1932007258
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T15:31:16.160270",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      61676220,
+      1069336512,
+      770581804
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T15:35:48.613706",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      1923845187,
+      13116783,
+      2042225875
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T15:43:32.026775",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      1180792837,
+      803725986,
+      764603383
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T15:45:21.791920",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      1291922912,
+      1242750096,
+      1330131333
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T15:54:14.459871",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      1456305651,
+      1981142010,
+      1221547970
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T15:59:16.068513",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      476278654,
+      693684305,
+      1199336850
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T16:02:22.392474",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      2087908520,
+      1649303130,
+      1303602664
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T16:08:33.590499",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      1629571326,
+      1199964890,
+      978810284
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T16:19:06.126630",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      2103594951,
+      1025833320,
+      95593290
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T21:11:34.163517",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      518524182,
+      562097621,
+      595054240
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T21:12:52.101769",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      1296888598,
+      226055158,
+      1566456388
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T21:34:24.793548",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      249664498,
+      2037492084,
+      1273283663
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  },
+  {
+    "donor_image": "aug_gpt_4_gem_wo.jpeg",
+    "timestamp": "2024-11-21T21:40:58.849484",
+    "generation_params": {
+      "cfg": 7.0,
+      "steps": 25,
+      "sampler": "euler"
+    },
+    "seeds": [
+      1208802291,
+      1327753702,
+      1471155051
+    ],
+    "output_files": [
+      "aug_gpt_4_gem_wo_baby_1.png",
+      "aug_gpt_4_gem_wo_baby_2.png",
+      "aug_gpt_4_gem_wo_baby_3.png"
+    ]
+  }
+]
