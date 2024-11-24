@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_201636",
+  "donor_id": "org_gpt_7_gem_demo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.4298019292020528,
+    "cfg_scale": 4.474298510055643,
+    "ip_adapter_strength": 0.7710122872442592,
+    "controlnet_strength": 0.6627916689446832,
+    "seed": 1505253029,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "org_gpt_7_gem_demo_me80.png",
+  "prompt": "portrait of a 11 month old baby with distinctive facial features, attentive expression, detailed facial features, natural daylight, high quality photograph, photorealistic"
+}

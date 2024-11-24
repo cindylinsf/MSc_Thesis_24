@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_190543",
+  "donor_id": "org_gem_7_gem_demo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.4554251527136466,
+    "cfg_scale": 5.102792251070825,
+    "ip_adapter_strength": 0.631256793650341,
+    "controlnet_strength": 0.7181823318945548,
+    "seed": 1865317921,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "org_gem_7_gem_demo_me80.png",
+  "prompt": "portrait of a 10 month old baby with distinctive facial features, neutral expression, detailed facial features, soft studio lighting, high quality photograph, photorealistic"
+}

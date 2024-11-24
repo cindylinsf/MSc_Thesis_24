@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_194951",
+  "donor_id": "org_gem_1_gem_demo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.5279347865630752,
+    "cfg_scale": 4.445688515155096,
+    "ip_adapter_strength": 0.6637418052411707,
+    "controlnet_strength": 0.7644592375696915,
+    "seed": 1770428975,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "org_gem_1_gem_demo_me80.png",
+  "prompt": "portrait of a 13 month old baby with distinctive facial features, neutral expression, detailed facial features, natural daylight, high quality photograph, photorealistic"
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_194240",
+  "donor_id": "aug_gem_6_gem_demo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.6540088195287241,
+    "cfg_scale": 6.980458408132379,
+    "ip_adapter_strength": 0.7425373005722079,
+    "controlnet_strength": 0.741161694241289,
+    "seed": 3119514332,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "aug_gem_6_gem_demo_me80.png",
+  "prompt": "portrait of a 13 month old baby with distinctive facial features, attentive expression, detailed facial features, gentle window light, high quality photograph, photorealistic"
+}

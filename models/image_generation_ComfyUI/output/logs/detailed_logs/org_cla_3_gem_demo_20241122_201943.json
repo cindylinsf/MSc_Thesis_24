@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_201943",
+  "donor_id": "org_cla_3_gem_demo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.4624409775105932,
+    "cfg_scale": 6.176986768997203,
+    "ip_adapter_strength": 0.7626553030260343,
+    "controlnet_strength": 0.7553686998643281,
+    "seed": 3953133153,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "org_cla_3_gem_demo_me80.png",
+  "prompt": "portrait of a 14 month old baby with distinctive facial features, happy expression, detailed facial features, natural daylight, high quality photograph, photorealistic"
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_194338",
+  "donor_id": "org_gpt_6_gem_demo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.48290333917112505,
+    "cfg_scale": 6.449760002343413,
+    "ip_adapter_strength": 0.6969901529827734,
+    "controlnet_strength": 0.6789596230434456,
+    "seed": 15715890,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "org_gpt_6_gem_demo_me80.png",
+  "prompt": "portrait of a 10 month old baby with distinctive facial features, gentle smile expression, detailed facial features, natural daylight, high quality photograph, photorealistic"
+}
