@@ -1,0 +1,7 @@
+{
+  "model_version": "llama2-7b-hf_v1",
+  "timestamp": "20241118_1253",
+  "base_model": "Llama-2-7b-hf",
+  "training_data": "original_dataset",
+  "description": "Initial fine-tuning run with original dataset"
+}

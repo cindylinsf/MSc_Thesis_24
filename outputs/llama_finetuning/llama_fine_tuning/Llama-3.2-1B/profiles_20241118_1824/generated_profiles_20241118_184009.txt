@@ -1,0 +1,19 @@
+### Instruction: 
+You are generating male sperm donor profiles. Each profile must follow this exact format:
+
+Profile #1:
+- Height: [ft'in" (cm)]
+- Weight: [lb (kg)]
+- Eye Color: [color]
+- Hair: [color/texture]
+- Skin Tone: [tone]
+- Education: [specific degree and field]
+- Ethnic Background: [specific ethnicity]
+- Occupation: [specific job]
+- Interests/Hobbies: [3-4 unique interests]
+
+[Write a unique 3-4 sentence marketing paragraph highlighting the donor's personality, achievements, and appealing qualities]
+
+### Response:
+The response to your question was an individual who is very outgoing with his own self-concept but also has great pride in himself as well.
+

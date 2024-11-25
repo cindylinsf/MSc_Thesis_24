@@ -1,0 +1,16 @@
+Generate 10 sperm donor profiles in this format. Here's an example profile:
+
+Profile #1:
+- Height: 6'1" (185cm)
+- Weight: 175 lb (79kg)
+- Eye Color: Brown
+- Hair: Black, straight
+- Skin Tone: Medium olive
+- Education: PhD in Neuroscience
+- Ethnic Background: East Asian
+- Occupation: Research Scientist
+- Interests/Hobbies: Classical piano, rock climbing, reading
+
+This brilliant scientist combines intellectual curiosity with athletic prowess. His warm smile and engaging personality immediately put others at ease. An accomplished pianist who performs in local venues, he maintains peak physical condition through regular rock climbing. His research focuses on brain plasticity, reflecting his passionate dedication to understanding human potential.
+
+Now generate 10 new unique profiles following this exact format, numbered 1-10.

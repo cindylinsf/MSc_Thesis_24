@@ -1,0 +1,18 @@
+
+Based on these donor profiles, generate 10 new donor profiles. For each profile, provide:
+
+Profile #[number]:
+
+- Height: [ft'in" (cm)]
+- Weight: [lb (kg)]
+- Eye Color: [color]
+- Hair: [color/texture]
+- Skin Tone: [tone]
+- Education: [level and field]
+- Ethnic Background: [ethnicity]
+- Occupation: [job]
+- Interests/Hobbies: [categories]
+
+[Detailed description paragraph that captures personality, aspirations, physical features, and character traits in a marketing style similar to the samples provided]
+
+Generate all 10 profiles numbered 1-10.

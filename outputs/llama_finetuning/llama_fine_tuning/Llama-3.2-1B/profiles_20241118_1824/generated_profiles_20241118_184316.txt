@@ -1,0 +1,26 @@
+### Instruction: 
+Generate a male sperm donor profile following this example:
+
+Example Profile:
+- Height: 6'1" (185cm)
+- Weight: 175 lbs (79kg)
+- Eye Color: Brown
+- Hair: Black, straight
+- Skin Tone: Medium olive
+- Education: PhD in Neuroscience
+- Ethnic Background: East Asian
+- Occupation: Research Scientist
+- Interests/Hobbies: Classical piano, rock climbing, reading
+
+This brilliant scientist combines intellectual curiosity with athletic prowess. His research in neuroscience has earned him recognition in academic circles, while his dedication to fitness through rock climbing keeps him in excellent shape. During downtime, he enjoys playing classical piano pieces and exploring new literature, reflecting his well-rounded personality.
+
+Now generate a new unique profile following this exact format.
+
+### Response: 
+
+The command will look like below; we are using the same input file that was used for previous examples.
+```
+curl -X POST \
+      https://github.com/tensorflow/hub/raw/main/examples/profiles/seed.json \
+    --header 'Content-Type: application/json'
+```
