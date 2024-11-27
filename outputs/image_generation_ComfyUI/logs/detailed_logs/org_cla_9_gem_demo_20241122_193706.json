@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_193706",
+  "donor_id": "org_cla_9_gem_demo",
+  "scenario": "random",
+  "parameters": {
+    "denoise_strength": 0.5271389619712834,
+    "cfg_scale": 6.900581194677846,
+    "ip_adapter_strength": 0.6043491867460767,
+    "controlnet_strength": 0.7798817728882907,
+    "seed": 2811793072,
+    "blend_ratio": 0.23
+  },
+  "output_filename": "org_cla_9_gem_demo_rand23.png",
+  "prompt": "portrait of a 11 month old baby with distinctive facial features, gentle smile expression, detailed facial features, professional portrait lighting, high quality photograph, photorealistic"
+}

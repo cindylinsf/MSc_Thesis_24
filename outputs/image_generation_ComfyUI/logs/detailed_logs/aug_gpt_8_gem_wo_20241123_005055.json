@@ -1,0 +1,16 @@
+{
+  "timestamp": "20241123_005055",
+  "donor_id": "aug_gpt_8_gem_wo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "donor_strength": 0.2,
+    "me_strength": 0.8,
+    "denoise": 0.68,
+    "cfg": 4.6,
+    "steps": 27,
+    "controlnet_strength": 0.73,
+    "seed": 860017440
+  },
+  "output_filename": "aug_gpt_8_gem_wo_me80.png",
+  "prompt": "portrait of a 12 month old baby with distinctive facial features, curious expression, detailed facial features, gentle window light, high quality photograph, photorealistic"
+}

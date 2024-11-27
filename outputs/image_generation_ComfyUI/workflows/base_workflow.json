@@ -1,0 +1,94 @@
+{
+  "last_node_id": 9,
+  "last_link_id": 0,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "LoadImage",
+      "pos": [
+        50,
+        200
+      ],
+      "size": [
+        315,
+        102
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            5
+          ],
+          "slot_index": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "LoadImage",
+      "pos": [
+        50,
+        400
+      ],
+      "size": [
+        315,
+        102
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            6
+          ],
+          "slot_index": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    [
+      5,
+      1,
+      0,
+      5,
+      0,
+      "IMAGE"
+    ],
+    [
+      6,
+      2,
+      0,
+      5,
+      1,
+      "IMAGE"
+    ],
+    [
+      7,
+      3,
+      0,
+      5,
+      0,
+      "MODEL"
+    ],
+    [
+      8,
+      3,
+      1,
+      4,
+      0,
+      "CLIP"
+    ]
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.5,
+      "offset": [
+        -1350,
+        -211
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "timestamp": "20241123_005116",
+  "donor_id": "org_gem_5_gem_wo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "donor_strength": 0.2,
+    "me_strength": 0.8,
+    "denoise": 0.41,
+    "cfg": 4.4,
+    "steps": 36,
+    "controlnet_strength": 0.8,
+    "seed": 2289353581
+  },
+  "output_filename": "org_gem_5_gem_wo_me80.png",
+  "prompt": "portrait of a 14 month old baby with distinctive facial features, gentle smile expression, detailed facial features, professional portrait lighting, high quality photograph, photorealistic"
+}

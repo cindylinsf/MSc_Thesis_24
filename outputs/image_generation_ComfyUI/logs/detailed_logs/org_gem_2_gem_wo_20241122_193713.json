@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_193713",
+  "donor_id": "org_gem_2_gem_wo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.6725338117118969,
+    "cfg_scale": 5.57449930116426,
+    "ip_adapter_strength": 0.702415322531999,
+    "controlnet_strength": 0.7007917276198949,
+    "seed": 2782296177,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "org_gem_2_gem_wo_me80.png",
+  "prompt": "portrait of a 12 month old baby with distinctive facial features, happy expression, detailed facial features, natural daylight, high quality photograph, photorealistic"
+}

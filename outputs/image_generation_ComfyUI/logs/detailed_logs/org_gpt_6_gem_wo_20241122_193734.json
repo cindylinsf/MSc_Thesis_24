@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_193734",
+  "donor_id": "org_gpt_6_gem_wo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.6947362907054394,
+    "cfg_scale": 6.860992749839129,
+    "ip_adapter_strength": 0.7088362527852702,
+    "controlnet_strength": 0.689071738276371,
+    "seed": 3438364180,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "org_gpt_6_gem_wo_me80.png",
+  "prompt": "portrait of a 13 month old baby with distinctive facial features, neutral expression, detailed facial features, gentle window light, high quality photograph, photorealistic"
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_190451",
+  "donor_id": "aug_gem_2_gem_wo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.5212423145789126,
+    "cfg_scale": 6.701287104284468,
+    "ip_adapter_strength": 0.7134499780425554,
+    "controlnet_strength": 0.7570836031465181,
+    "seed": 540650271,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "aug_gem_2_gem_wo_me80.png",
+  "prompt": "portrait of a 11 month old baby with distinctive facial features, candid expression, detailed facial features, gentle window light, high quality photograph, photorealistic"
+}

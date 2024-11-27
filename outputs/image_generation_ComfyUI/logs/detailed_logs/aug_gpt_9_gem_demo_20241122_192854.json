@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_192854",
+  "donor_id": "aug_gpt_9_gem_demo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.6849479941243894,
+    "cfg_scale": 4.027064699759495,
+    "ip_adapter_strength": 0.6303917201582012,
+    "controlnet_strength": 0.7085892058783916,
+    "seed": 478861218,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "aug_gpt_9_gem_demo_me80.png",
+  "prompt": "portrait of a 14 month old baby with distinctive facial features, curious expression, detailed facial features, natural daylight, high quality photograph, photorealistic"
+}

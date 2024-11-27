@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241122_195736",
+  "donor_id": "aug_gem_1_gem_wo",
+  "scenario": "me_dominant",
+  "parameters": {
+    "denoise_strength": 0.4145044629940076,
+    "cfg_scale": 5.609529700959391,
+    "ip_adapter_strength": 0.7431816160818453,
+    "controlnet_strength": 0.7840870945956006,
+    "seed": 3316282644,
+    "blend_ratio": 0.8
+  },
+  "output_filename": "aug_gem_1_gem_wo_me80.png",
+  "prompt": "portrait of a 10 month old baby with distinctive facial features, neutral expression, detailed facial features, natural daylight, high quality photograph, photorealistic"
+}

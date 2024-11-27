@@ -62,3 +62,7 @@ progress_logs/November 2024
 # Models
 models/ComfyUI/
 models/ComfyUI
+models/__MACOSX
+models/ECCV2022-RIFE
+models/frame-interpolation
+
