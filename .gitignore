@@ -67,4 +67,4 @@ models/ECCV2022-RIFE
 models/frame-interpolation
 
 # videos (files are too large for uploading to Github)
-outputs/videos
+outputs/videos/
