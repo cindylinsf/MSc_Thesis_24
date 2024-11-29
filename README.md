@@ -24,7 +24,8 @@ In this repository, you will find most of the files used in the creation of this
 # Written Thesis:
 - Included in the submission zip folder
 
-# A weblog documentating iterative development is included in the `progress_logs` organized by month. 
+# A weblog 
+- A weblog documentating iterative development is included in the `progress_logs` organized by month. 
 
 # LLM Disclosure
 This thesis and project utilized language models to assist in coding and generative outputs. The use of LLMs in this project contributed to the development of various components, such as developing and refining python scripts for web scraping, generating donor descriptions and images. 
