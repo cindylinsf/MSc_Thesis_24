@@ -1,15 +1,27 @@
-# MSc Thesis Project
-This project contains scripts for data collection for my MSc thesis.
+# MSc Thesis Project Delivery
+In this repository, you will find most of the files used in the creation of this thesis project. However, certain files have been omitted to protect the anonymity of the scraped data sources, which are included in the `.gitignore` file.
 
-# Project Structure
-- `data`/: Contains all data files
-- `raw`/: Raw scraped data
-- `processed`/: Cleaned and processed data
-- `generated`/: Generated analysis files
-- `models`/: Model files
+# Project File Structure
+- `data`/: Main directory containing all data-related files and subdirectories
+    - `/data_llama_finetuning`: Contains llama model fine-tuning data and related files
+    - `/processed/llama_training`: Contains processed datasets for training Llama model
+    - `/sampled`: Contains sampled datasets
+    - `/generated/augmented_dataset`: Contains generated augmented dataset
+    - `/input`: Input data directory
+    - `/processed`: Processed data directory
+    - `/raw` Raw data directory is intentionally excluded to protect the anonymity of the sperm banks from which the dataset was obtained.
+- `models`/: Only the interpolation workflow files are included, as the model repositories used in this project are too large to upload to GitHub.
 - `notebooks`/: Jupyter notebooks for analysis
-- `outputs`/: Output files and results
+- `outputs`/: Output files and results. Video files are excluded due to Github upload size limitation. Final video output links are listed below.
+- `progress_logs`/: Contains journal entries documenting progress reports organized by month.
 - `scrapers`/: Web scraping scripts
 
-# `.gitignore`
-Certain documents are intentionally included in the `.gitignore` file to protect the anonymity of the sperm banks from which the dataset was created.
+# Project Outputs:
+- _Baby Lottery_ video link: https://vimeo.com/1034183475?share=copy
+- _All My Children_ video link: https://vimeo.com/1034183933?share=copy 
+- Oral project report video link: 
+
+# Written Thesis:
+- Included in the submission zip folder
+
+# A weblog documentating iterative development is included in the `progress_logs` organized by month. 

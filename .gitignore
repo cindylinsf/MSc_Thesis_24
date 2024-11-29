@@ -57,7 +57,6 @@ bank2_processed_data.csv
 bank3_processed_data.csv
 bank4_processed_data.csv
 merged_donor_data_with_ids.csv
-progress_logs/November 2024
 
 # Models
 models/ComfyUI/
