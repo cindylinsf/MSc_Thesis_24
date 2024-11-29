@@ -25,7 +25,7 @@ In this repository, you will find most of the files used in the creation of this
 - Included in the submission zip folder
 
 # A weblog 
-- Daily entries (in `.md` format) documentating iterative development is included in the `progress_logs` organized by month. 
+- Daily entries (in `.md` format) documenting iterative development is included in the `progress_logs` organized by month. 
 - A PDF is converted from the `.md` format entries, which is included in the zipped folder. Please note that the format may have changed during the conversion process.
 
 # LLM Disclosure
