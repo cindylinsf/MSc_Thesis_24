@@ -19,13 +19,14 @@ In this repository, you will find most of the files used in the creation of this
 # Project Outputs:
 - _Baby Lottery_ video link: https://vimeo.com/1034183475?share=copy
 - _All My Children_ video link: https://vimeo.com/1034183933?share=copy 
-- Oral project report video link: 
+- Oral project report video link: https://vimeo.com/1034516433?share=copy 
 
 # Written Thesis:
 - Included in the submission zip folder
 
 # A weblog 
-- A weblog documentating iterative development is included in the `progress_logs` organized by month. 
+- Daily entries (in `.md` format) documentating iterative development is included in the `progress_logs` organized by month. 
+- A PDF is converted from the `.md` format entries, which is included in the zipped folder. Please note that the format may have changed during the conversion process.
 
 # LLM Disclosure
 This thesis and project utilized language models to assist in coding and generative outputs. The use of LLMs in this project contributed to the development of various components, such as developing and refining python scripts for web scraping, generating donor descriptions and images. 
